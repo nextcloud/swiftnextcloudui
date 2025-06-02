@@ -1,12 +1,13 @@
 {
   "sourceLanguage" : "en",
   "strings" : {
-    "Accounts from our other apps were found on this device. Would you like to add one of these?" : {
+    "Accounts from other Apps" : {
+      "comment" : "Navigation bar title",
       "localizations" : {
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Konten aus anderen Apps auf diesem Gerät wurden gefunden. Möchtest du eines von denen hinzufügen?"
+            "value" : "Konten aus anderen Apps"
           }
         }
       }
@@ -50,7 +51,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "QR Code Scann"
+            "value" : "QR Code Scannen"
           }
         }
       }
@@ -67,7 +68,7 @@
       }
     },
     "Shared Accounts" : {
-      "comment" : "Button label\nNavigation bar title",
+      "comment" : "Button label",
       "localizations" : {
         "de" : {
           "stringUnit" : {

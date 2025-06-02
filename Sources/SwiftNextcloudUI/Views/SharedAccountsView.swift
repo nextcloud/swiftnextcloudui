@@ -20,9 +20,6 @@ struct SharedAccountsView: View {
     var body: some View {
         NavigationStack {
             VStack {
-                Text("Accounts from our other apps were found on this device. Would you like to add one of these?")
-                    .padding()
-
                 List {
                     ForEach(sharedAccounts) { sharedAccount in
                         HStack {
@@ -46,7 +43,7 @@ struct SharedAccountsView: View {
                     }
                 }
                 .listStyle(.plain)
-                .navigationTitle(String(localized: "Shared Accounts", comment: "Navigation bar title"))
+                .navigationTitle(String(localized: "Accounts from other Apps", comment: "Navigation bar title"))
                 #if os(iOS)
                 .navigationBarTitleDisplayMode(.inline)
                 #endif
