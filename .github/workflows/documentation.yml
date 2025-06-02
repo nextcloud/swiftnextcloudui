@@ -26,6 +26,7 @@ jobs:
           xcodebuild docbuild \
             -scheme SwiftNextcloudUI \
             -destination 'platform=macOS' \
+            -skipPackagePluginValidation \
             -derivedDataPath ./DerivedData
           $(xcrun --find docc) process-archive \
             transform-for-static-hosting ./DerivedData/Build/Products/Debug/SwiftNextcloudUI.doccarchive \
