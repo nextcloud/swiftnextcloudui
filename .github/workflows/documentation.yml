@@ -23,12 +23,13 @@ jobs:
       - uses: actions/checkout@v4
       - name: Build documentation
         run: |
-          swift package --allow-writing-to-directory ./docs \
-            generate-documentation \
-            --target SwiftNextcloudUI \
+          xcodebuild docbuild \
+            -scheme SwiftNextcloudUI \
+            -destination 'platform=macOS' \
+            -derivedDataPath ./DerivedData
+          $(xcrun --find docc) process-archive \
+            transform-for-static-hosting ./DerivedData/Build/Products/Debug/SwiftNextcloudUI.doccarchive \
             --output-path ./docs \
-            --disable-indexing \
-            --transform-for-static-hosting \
             --hosting-base-path /swiftnextcloudui
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4
