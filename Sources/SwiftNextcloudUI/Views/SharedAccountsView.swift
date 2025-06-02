@@ -8,6 +8,8 @@ import SwiftUI
 /// The view informing the user about shared accounts available for selection and offering a list to select from.
 ///
 struct SharedAccountsView: View {
+    @Environment(\.dismiss) private var dismiss
+
     var sharedAccounts: [SharedAccount]
 
     let selectionHandler: (SharedAccount) -> Void
@@ -39,6 +41,7 @@ struct SharedAccountsView: View {
                         }
                         .onTapGesture {
                             selectionHandler(sharedAccount)
+                            dismiss()
                         }
                     }
                 }
