@@ -2,31 +2,102 @@
   "sourceLanguage" : "en",
   "strings" : {
     "Accounts from our other apps were found on this device. Would you like to add one of these?" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Konten aus anderen Apps auf diesem Gerät wurden gefunden. Möchtest du eines von denen hinzufügen?"
+          }
+        }
+      }
     },
     "Cancel" : {
-      "comment" : "Button label"
+      "comment" : "Button label",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Abbrechen"
+          }
+        }
+      }
     },
     "Login Failed" : {
-      "comment" : "Alert title"
+      "comment" : "Alert title",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Anmeldung Fehlgeschlagen"
+          }
+        }
+      }
     },
     "OK" : {
-      "comment" : "Button label for error alert dismissal."
+      "comment" : "Button label for error alert dismissal.",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "OK"
+          }
+        }
+      }
     },
     "Scan QR Code" : {
-      "comment" : "Button label\nNavigation bar title"
+      "comment" : "Button label\nNavigation bar title",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "QR Code Scann"
+          }
+        }
+      }
     },
     "Server Address" : {
-      "comment" : "Label for text field."
+      "comment" : "Label for text field.",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Serveradresse"
+          }
+        }
+      }
     },
     "Shared Accounts" : {
-      "comment" : "Button label\nNavigation bar title"
+      "comment" : "Button label\nNavigation bar title",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Geteilte Konten"
+          }
+        }
+      }
     },
     "The address of your Nextcloud web interface when you open it in your browser." : {
-      "comment" : "Label below the server address field in the login view."
+      "comment" : "Label below the server address field in the login view.",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Die Adresse deiner Nextcloud wie du sie in deinem Webbrowser eingibst."
+          }
+        }
+      }
     },
     "The entered server address is invalid." : {
-      "comment" : "This is an error message."
+      "comment" : "This is an error message.",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Die eingegebene Serveradresse ist ungültig."
+          }
+        }
+      }
     }
   },
   "version" : "1.0"
