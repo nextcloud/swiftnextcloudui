@@ -2,8 +2,8 @@
 // SPDX-FileCopyrightText: 2025 Iva Horn
 // SPDX-License-Identifier: GPL-3.0-or-later
 
-import Testing
 @testable import SwiftNextcloudUI
+import Testing
 
 ///
 /// Test subject which conforms to ``QRCodeParsing``.
