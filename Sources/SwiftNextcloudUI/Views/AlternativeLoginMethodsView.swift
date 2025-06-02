@@ -84,7 +84,7 @@ struct AlternativeLoginMethodsView: View {
                                 .scaledToFit()
                                 .frame(width: 32, height: 32)
 
-                            Text(String(localized: "Shared Accounts", comment: "Button label"))
+                            Text(String(localized: "Accounts from other Apps", comment: "Button label"))
                         }
                         .padding()
                         .sharedAccountsSheet(isPresented: $isPresentingSharedAccounts, sharedAccounts: sharedAccounts, selectionHandler: selectionHandler)

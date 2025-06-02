@@ -2,7 +2,7 @@
   "sourceLanguage" : "en",
   "strings" : {
     "Accounts from other Apps" : {
-      "comment" : "Navigation bar title",
+      "comment" : "Button label\nNavigation bar title",
       "localizations" : {
         "de" : {
           "stringUnit" : {
@@ -63,17 +63,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Serveradresse"
-          }
-        }
-      }
-    },
-    "Shared Accounts" : {
-      "comment" : "Button label",
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Geteilte Konten"
           }
         }
       }
