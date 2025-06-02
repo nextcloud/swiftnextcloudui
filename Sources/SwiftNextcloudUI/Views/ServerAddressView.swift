@@ -200,7 +200,10 @@ public struct ServerAddressView: View, QRCodeParsing, URLSanitizing {
     }
 
     ///
+    /// Clean up the received user input and dispatch the login flow.
     ///
+    /// - Parameters:
+    ///     - user: An optional user name to fill out automatically in the web user interface during the login.
     ///
     func sanitizeEnteredServerAddressAndLogIn(user: String? = nil) {
         guard enteredServerAddress.trimmingCharacters(in: .whitespaces).isEmpty == false else {
