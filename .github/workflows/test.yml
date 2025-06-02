@@ -19,6 +19,8 @@ jobs:
     if: github.event.pull_request.draft == false
     steps:
     - uses: actions/checkout@v4
+    - name: Select Xcode Version
+      run: sudo xcode-select -s /Applications/Xcode_16.4.app
     - name: Run Tests in Xcode
       run: xcodebuild test -scheme SwiftNextcloudUI -destination 'platform=iOS Simulator,OS=latest,name=iPhone 16'
   macos:
@@ -27,5 +29,7 @@ jobs:
     if: github.event.pull_request.draft == false
     steps:
     - uses: actions/checkout@v4
+    - name: Select Xcode Version
+      run: sudo xcode-select -s /Applications/Xcode_16.4.app
     - name: Run Tests in Xcode
       run: xcodebuild test -scheme SwiftNextcloudUI -destination 'platform=macOS,arch=arm64'
