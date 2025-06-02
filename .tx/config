@@ -1,0 +1,8 @@
+[main]
+host = https://www.transifex.com
+
+[o:nextcloud:p:nextcloud:r:swiftnextcloudui]
+source_file            = Sources/SwiftNextcloudUI/Localizable.xcstrings
+source_lang            = en
+type                   = XCSTRINGS
+lang_map               = zh_CN: zh-Hans, nb_NO: nb-NO, es_HN: es-HN, es_UY: es-UY, pt_PT: pt-PT, hu_HU: hu, es_CL: es-CL, es_EC: es-EC, es_CO: es-CO, es_PY: es-PY, es_SV: es-SV, es_419: es-419, fi_FI: fi-FI, es_AR: es-AR, sk_SK: sk-SK, es_MX: es-MX, es_CR: es-CR, es_PA: es-PA, es_GT: es-GT, es_NI: es-NI, es_PR: es-PR, ja_JP: ja-JP, pt_BR: pt-BR, cs_CZ: cs, ka_GE: ka-GE, es_PE: es-PE, en_GB: en-GB, zh_TW: zh-Hant-TW, es_DO: es-DO, sr@latin: sr-Latn
