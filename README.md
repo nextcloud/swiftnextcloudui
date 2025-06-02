@@ -11,6 +11,10 @@ A package to provide common user interface elements of apps by Nextcloud written
 - **Login**: From entering the server address over scanning QR codes to offering accounts shared in the app group.
 - **Multiplatform**: Views are designed for iPhone and iPad with macOS being checked for compatibility.
 
+## Localization
+
+The localizable texts in the user interface provided by this package are maintained on [Transifex](https://app.transifex.com/nextcloud/nextcloud/swiftnextcloudui/).
+
 ## Development
 
 Key traits of this package:
