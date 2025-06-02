@@ -1,0 +1,31 @@
+# SPDX-FileCopyrightText: Nextcloud GmbH
+# SPDX-FileCopyrightText: 2025 Iva Horn
+# SPDX-License-Identifier: GPL-3.0-or-later
+
+name: Test
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  ios:
+    name: iOS
+    runs-on: macos-latest
+    if: github.event.pull_request.draft == false
+    steps:
+    - uses: actions/checkout@v4
+    - name: Run Tests in Xcode
+      run: xcodebuild test -scheme SwiftNextcloudUI -destination 'platform=iOS Simulator,OS=latest,name=iPhone 16'
+  macos:
+    name: macOS
+    runs-on: macos-latest
+    if: github.event.pull_request.draft == false
+    steps:
+    - uses: actions/checkout@v4
+    - name: Run Tests in Xcode
+      run: xcodebuild test -scheme SwiftNextcloudUI -destination 'platform=macOS,arch=arm64'
