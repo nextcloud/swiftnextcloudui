@@ -26,7 +26,8 @@ opt_in_rules:
   - yoda_condition
 
 included:
-  - iOCNotes
+  - Sources
+  - Tests
 
 strict: true
 
