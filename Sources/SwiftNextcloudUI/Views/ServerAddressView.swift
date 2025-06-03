@@ -9,6 +9,7 @@ import SwiftUI
 /// The full screen view in which a user enters the address of the server to log in on.
 ///
 public struct ServerAddressView: View, QRCodeParsing, URLSanitizing {
+    var brandImage: Image
     var delegate: (any ServerAddressViewDelegate)?
     var sharedAccounts: [SharedAccount]
     let userAgent: String?
@@ -18,11 +19,13 @@ public struct ServerAddressView: View, QRCodeParsing, URLSanitizing {
     ///
     /// - Parameters:
     ///     - backgroundColor: The main theme color the view should use.
+    ///     - brandImage: The image to display on top of the server address view. Falls back to an SF Symbol placeholder in case of `nil`.
     ///     - sharedAccounts: Any shared accounts from the app group being available.
     ///     - userAgent: An optional user agent string to override the one used by ``WKWebView``.
     ///
-    public init(backgroundColor: Binding<Color>, delegate: any ServerAddressViewDelegate, sharedAccounts: [SharedAccount], userAgent: String? = nil) {
+    public init(backgroundColor: Binding<Color>, brandImage: Image, delegate: any ServerAddressViewDelegate, sharedAccounts: [SharedAccount], userAgent: String? = nil) {
         self._backgroundColor = backgroundColor
+        self.brandImage = brandImage
         self.sharedAccounts = sharedAccounts
         self.delegate = delegate
         self.userAgent = userAgent
@@ -83,7 +86,12 @@ public struct ServerAddressView: View, QRCodeParsing, URLSanitizing {
             VStack {
                 Spacer(minLength: 40)
 
-                Image("BrandLogo")
+                // Brand image binding or fallback symbol.
+                brandImage
+                    .resizable()
+                    .aspectRatio(contentMode: .fit)
+                    .foregroundStyle(backgroundColor.readable)
+                    .frame(minHeight: 100)
                     .padding(.vertical, 40)
 
                 // Some space between brand logo and server address field.
