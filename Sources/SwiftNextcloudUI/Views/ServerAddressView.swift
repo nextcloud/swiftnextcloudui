@@ -274,3 +274,40 @@ public struct ServerAddressView: View, QRCodeParsing, URLSanitizing {
         }
     }
 }
+
+#if DEBUG
+
+class ServerAddressViewPreviewDelegate: ServerAddressViewDelegate {
+    func addAccount(host: URL, name: String, password: String) {
+        print("Add account called.")
+    }
+
+    func beginPolling(at url: URL) async throws -> URL {
+        URL(fileURLWithPath: "/")
+    }
+
+    func cancelPolling(by token: String) {
+        print("Cancel polling called.")
+    }
+}
+
+#endif
+
+#Preview("Without Shared Accounts") {
+    let backgroundColor: Binding<Color> = .constant(.accentColor)
+    let brandImage = Image(systemName: "questionmark.square.dashed")
+    let sharedAccounts = [SharedAccount]()
+
+    return ServerAddressView(backgroundColor: backgroundColor, brandImage: brandImage, delegate: ServerAddressViewPreviewDelegate(), sharedAccounts: sharedAccounts, userAgent: nil)
+}
+
+#Preview("With Shared Accounts") {
+    let backgroundColor: Binding<Color> = .constant(.accentColor)
+    let brandImage = Image(systemName: "questionmark.square.dashed")
+    let sharedAccounts = [
+        // swiftlint:disable:next force_unwrapping
+        SharedAccount("Jane Doe", on: URL(string: "http://localhost:8080")!, with: Image(systemName: "person.circle.fill"))
+    ]
+
+    return ServerAddressView(backgroundColor: backgroundColor, brandImage: brandImage, delegate: ServerAddressViewPreviewDelegate(), sharedAccounts: sharedAccounts, userAgent: nil)
+}
