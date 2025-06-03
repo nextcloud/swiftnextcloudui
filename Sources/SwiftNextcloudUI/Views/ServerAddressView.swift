@@ -102,11 +102,11 @@ public struct ServerAddressView: View, QRCodeParsing, URLSanitizing {
                     HStack {
                         TextField(
                             text: $enteredServerAddress,
-                            prompt: Text(verbatim: "https://example.org/").foregroundColor(.white.opacity(0.5))
+                            prompt: Text(verbatim: "https://example.org/").foregroundColor(backgroundColor.readable.opacity(0.5))
                         ) {
                             Text("Server Address", comment: "Label for text field.")
                         }
-                        .tint(.white)
+                        .foregroundStyle(backgroundColor.readable)
                         .textContentType(.URL)
                         .autocorrectionDisabled()
                         #if os(iOS)
@@ -121,7 +121,7 @@ public struct ServerAddressView: View, QRCodeParsing, URLSanitizing {
                         if isActive {
                             ProgressView()
                                 .progressViewStyle(.circular)
-                                .tint(.white)
+                                .tint(backgroundColor.readable)
                         } else {
                             Button {
                                 sanitizeEnteredServerAddressAndLogIn()
@@ -133,7 +133,7 @@ public struct ServerAddressView: View, QRCodeParsing, URLSanitizing {
                     .padding(EdgeInsets(top: 8, leading: 10, bottom: 8, trailing: 10))
                     .overlay(
                         RoundedRectangle(cornerRadius: 8)
-                            .stroke(.white, lineWidth: 1)
+                            .stroke(backgroundColor.readable, lineWidth: 1)
                     )
 
                     if horizontalSizeClass == .regular {
@@ -142,6 +142,7 @@ public struct ServerAddressView: View, QRCodeParsing, URLSanitizing {
                 }
 
                 Text("The address of your Nextcloud web interface when you open it in your browser.", comment: "Label below the server address field in the login view.")
+                    .foregroundStyle(backgroundColor.readable)
                     .font(.footnote)
                     .padding(4)
 
@@ -157,7 +158,7 @@ public struct ServerAddressView: View, QRCodeParsing, URLSanitizing {
                 Spacer()
             }
             .disabled(isActive)
-            .foregroundStyle(.white)
+            .tint(backgroundColor.readable)
             .padding()
             .safeAreaPadding(.all)
         }
