@@ -136,6 +136,9 @@ public struct ServerAddressView: View, QRCodeParsing, URLSanitizing {
                             } label: {
                                 Image(systemName: "arrow.right")
                             }
+                            #if os(macOS)
+                            .buttonStyle(.plain)
+                            #endif
                         }
                     }
                     .padding(EdgeInsets(top: 8, leading: 10, bottom: 8, trailing: 10))
