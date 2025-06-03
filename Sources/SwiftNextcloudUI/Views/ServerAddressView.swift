@@ -299,8 +299,6 @@ class ServerAddressViewPreviewDelegate: ServerAddressViewDelegate {
     }
 }
 
-#endif
-
 #Preview("Without Shared Accounts") {
     let backgroundColor: Binding<Color> = .constant(.accentColor)
     let brandImage = Image(systemName: "questionmark.square.dashed")
@@ -319,3 +317,5 @@ class ServerAddressViewPreviewDelegate: ServerAddressViewDelegate {
 
     return ServerAddressView(backgroundColor: backgroundColor, brandImage: brandImage, delegate: ServerAddressViewPreviewDelegate(), sharedAccounts: sharedAccounts, userAgent: nil)
 }
+
+#endif
