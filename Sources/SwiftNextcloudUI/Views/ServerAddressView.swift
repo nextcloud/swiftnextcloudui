@@ -233,15 +233,23 @@ public struct ServerAddressView: View, QRCodeParsing, URLSanitizing {
         }
 
         Task {
-            var url = try await delegate.beginPolling(at: sanitizedServerAddress)
+            do {
+                var url = try await delegate.beginPolling(at: sanitizedServerAddress)
 
-            if let user {
-                url.append(queryItems: [URLQueryItem(name: "user", value: user)])
+                if let user {
+                    url.append(queryItems: [URLQueryItem(name: "user", value: user)])
+                }
+
+                beginWebView(url)
+            } catch {
+                endLogin(error)
             }
-
-            self.loginAddress = url
-            isPresentingWebView = true
         }
+    }
+
+    func beginWebView(_ url: URL) {
+        self.loginAddress = url
+        isPresentingWebView = true
     }
 
     ///
