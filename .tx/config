@@ -2,6 +2,7 @@
 host = https://www.transifex.com
 
 [o:nextcloud:p:nextcloud:r:swiftnextcloudui]
+file_filter            = Sources/SwiftNextcloudUI/Localizable.xcstrings
 source_file            = Sources/SwiftNextcloudUI/Localizable.xcstrings
 source_lang            = en
 type                   = XCSTRINGS
