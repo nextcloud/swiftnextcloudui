@@ -32,8 +32,21 @@ jobs:
             transform-for-static-hosting ./DerivedData/Build/Products/Debug/SwiftNextcloudUI.doccarchive \
             --output-path ./docs \
             --hosting-base-path /swiftnextcloudui
-      - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v4
+      - name: Upload static files as artifact
+        id: deployment
+        uses: actions/upload-pages-artifact@v3 # or specific "vX.X.X" version tag for this action
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./docs
+          path: ./docs
+  deploy-docs: # See: https://github.com/actions/deploy-pages
+    needs: build-docs
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
