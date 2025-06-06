@@ -19,7 +19,7 @@ concurrency:
 jobs:
   ios:
     name: iOS
-    runs-on: macos-latest
+    runs-on: macos-15
     if: github.event.pull_request.draft == false
     steps:
       - uses: maxim-lobanov/setup-xcode@v1
