@@ -29,4 +29,6 @@ Key traits of this package:
 
 ## Documentation
 
-The developer documentation is build automatically in GitHub actions and deployed to GitHub pages.
+The developer documentation is build automatically in GitHub actions and deployed to GitHub pages:
+
+https://nextcloud.github.io/swiftnextcloudui/documentation/swiftnextcloudui/
