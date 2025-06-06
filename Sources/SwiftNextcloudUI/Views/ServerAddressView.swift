@@ -15,12 +15,12 @@ public struct ServerAddressView: View, QRCodeParsing, URLSanitizing {
     let userAgent: String?
 
     ///
-    /// Create a new server address.
+    /// Create a new server address view.
     ///
     /// - Parameters:
-    ///     - backgroundColor: The main theme color the view should use.
+    ///     - backgroundColor: The main theme color the view should use. Foreground color will be adapted automatically based on this.
     ///     - brandImage: The image to display on top of the server address view. Falls back to an SF Symbol placeholder in case of `nil`.
-    ///     - sharedAccounts: Any shared accounts from the app group being available.
+    ///     - sharedAccounts: Any shared accounts from the app group being available for selection and faster login.
     ///     - userAgent: An optional user agent string to override the one used by ``WKWebView``.
     ///
     public init(backgroundColor: Binding<Color>, brandImage: Image, delegate: any ServerAddressViewDelegate, sharedAccounts: [SharedAccount], userAgent: String? = nil) {

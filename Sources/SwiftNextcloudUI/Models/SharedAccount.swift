@@ -5,13 +5,15 @@
 import SwiftUI
 
 ///
-/// View model for shared accounts as used in ``SharedAccountsView``.
+/// Data model for accounts from other apps to be offered to a user during the login flow.
 ///
 public struct SharedAccount: Identifiable, Sendable {
     ///
-    /// Unique identifier for this view model.
+    /// Unique identifier for a model instance during its lifetime in memory.
     ///
-    public var id: UUID
+    /// This is required by `Identifiable` for iteration and identification in SwiftUI collections.
+    ///
+    public let id: UUID
 
     ///
     /// The image to present for this shared account.
@@ -29,7 +31,7 @@ public struct SharedAccount: Identifiable, Sendable {
     public let name: String
 
     ///
-    /// Create a new shared account view model.
+    /// Create a new instance.
     ///
     /// - Parameters:
     ///     - name: See ``name``.
