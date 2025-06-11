@@ -15,14 +15,20 @@ import WebKit
 ///
 /// All of the web view session data is not persistent.
 ///
-struct WebView: ViewRepresentable {
+public struct WebView: ViewRepresentable {
     ///
     /// This must be a binding to support presentation inside sheets.
     /// The way this view gets created and updated inside a sheet has a race condition with sheet presentation.
     /// A sheet might be displayed before a passed in state variable might have been set.
     ///
-    let initialURL: Binding<URL?>
+    @Binding var initialURL: URL?
+
     let userAgent: String?
+
+    public init(initialURL: Binding<URL?>, userAgent: String? = nil) {
+        self._initialURL = initialURL
+        self.userAgent = userAgent
+    }
 
     func makeView() -> WKWebView {
         let configuration = WKWebViewConfiguration()
@@ -40,7 +46,7 @@ struct WebView: ViewRepresentable {
 
     func updateView(_ webView: WKWebView, context: Context) {
 
-        guard let initialURL = initialURL.wrappedValue else {
+        guard let initialURL = initialURL else {
             return
         }
 
@@ -48,25 +54,29 @@ struct WebView: ViewRepresentable {
         webView.load(request)
     }
 
+    // MARK: - macOS
+
     #if os(macOS)
 
     typealias NSViewType = WKWebView
 
-    func makeNSView(context: Context) -> WKWebView {
+    public func makeNSView(context: Context) -> WKWebView {
         makeView()
     }
 
-    func updateNSView(_ webView: WKWebView, context: Context) {
+    public func updateNSView(_ webView: WKWebView, context: Context) {
         updateView(webView, context: context)
     }
 
+    // MARK: - iOS
+
     #else
 
-    func makeUIView(context: Context) -> WKWebView {
+    public func makeUIView(context: Context) -> WKWebView {
         makeView()
     }
 
-    func updateUIView(_ webView: WKWebView, context: Context) {
+    public func updateUIView(_ webView: WKWebView, context: Context) {
         updateView(webView, context: context)
     }
 
