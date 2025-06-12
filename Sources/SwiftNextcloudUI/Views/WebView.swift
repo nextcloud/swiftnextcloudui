@@ -58,8 +58,6 @@ public struct WebView: ViewRepresentable {
 
     #if os(macOS)
 
-    typealias NSViewType = WKWebView
-
     public func makeNSView(context: Context) -> WKWebView {
         makeView()
     }
