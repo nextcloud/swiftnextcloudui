@@ -1,0 +1,10 @@
+{
+  "theme": {
+    "color": {
+      "documentation-intro-fill": "#0082c9"
+    },
+    "typography": {
+        "html-font": "\"Open-Sans\", sans-serif"
+    }
+  }
+}
