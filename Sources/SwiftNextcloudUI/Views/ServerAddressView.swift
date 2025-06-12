@@ -6,11 +6,39 @@ import CodeScanner
 import SwiftUI
 
 ///
+/// A new remote user account should be added locally in the persistence of the app.
+///
+/// This method is required, in example by the QR code scan. The scan happens in domain of this package and circumvents the polling logic of the hosting app.
+///
+public typealias AddAccountHandler = (_ host: URL, _ name: String, _ password: String) -> Void
+
+///
+/// The handler should start polling for the login flow status.
+///
+/// - Parameters:
+///     - url: The address of the server on which a login flow is to be started.
+///     - dismiss: The handler to call when the login user interface should be dismissed.
+///
+/// - Returns: The delegate must return the address on which the user should enter the login flow which then will be navigated to in the web view of this package.
+///
+public typealias BeginPollingHandler = (_ url: URL, _ dismiss: @MainActor @Sendable @escaping () -> Void) async throws -> URL
+
+///
+/// The login process was cancelled. This can happen intentionally by the user dismissing the related views. The polling can be stopped.
+///
+/// - Parameters:
+///     - token: The polling token the login flow is identified by uniquely.
+///
+public typealias CancelPollingHandler = (_ token: String) -> Void
+
+///
 /// The full screen view in which a user enters the address of the server to log in on.
 ///
 public struct ServerAddressView: View, QRCodeParsing, URLSanitizing {
-    var brandImage: Image
-    var delegate: (any ServerAddressViewDelegate)?
+    let addAccount: AddAccountHandler
+    let beginPolling: BeginPollingHandler
+    let cancelPolling: CancelPollingHandler
+    let brandImage: Image
     var sharedAccounts: [SharedAccount]
     let userAgent: String?
 
@@ -23,16 +51,19 @@ public struct ServerAddressView: View, QRCodeParsing, URLSanitizing {
     ///     - sharedAccounts: Any shared accounts from the app group being available for selection and faster login.
     ///     - userAgent: An optional user agent string to override the one used by ``WKWebView``.
     ///
-    public init(backgroundColor: Binding<Color>, brandImage: Image, delegate: any ServerAddressViewDelegate, sharedAccounts: [SharedAccount], userAgent: String? = nil) {
+    public init(backgroundColor: Binding<Color>, brandImage: Image, sharedAccounts: [SharedAccount], userAgent: String? = nil, addAccount: @escaping AddAccountHandler, beginPolling: @escaping BeginPollingHandler, cancelPolling: @escaping CancelPollingHandler) {
         self._backgroundColor = backgroundColor
+        self.addAccount = addAccount
+        self.beginPolling = beginPolling
+        self.cancelPolling = cancelPolling
         self.brandImage = brandImage
         self.sharedAccounts = sharedAccounts
-        self.delegate = delegate
         self.userAgent = userAgent
     }
 
     // MARK: - Environment
 
+    @Environment(\.dismiss) private var dismiss
     @Environment(\.horizontalSizeClass) var horizontalSizeClass
     @Environment(\.verticalSizeClass) var verticalSizeClass
 
@@ -194,7 +225,7 @@ public struct ServerAddressView: View, QRCodeParsing, URLSanitizing {
             case .success(let result):
                 do {
                     let (name, password, host) = try parse(result.string)
-                    delegate?.addAccount(host: host, name: name, password: password)
+                    addAccount(host, name, password)
                 } catch {
                     errorMessage = error.localizedDescription
                     isPresentingAlert = true
@@ -228,13 +259,12 @@ public struct ServerAddressView: View, QRCodeParsing, URLSanitizing {
             return
         }
 
-        guard let delegate else {
-            return
-        }
-
         Task {
             do {
-                var url = try await delegate.beginPolling(at: sanitizedServerAddress)
+                var url = try await beginPolling(sanitizedServerAddress) {
+                    isPresentingWebView = false
+                    dismiss()
+                }
 
                 if let user {
                     url.append(queryItems: [URLQueryItem(name: "user", value: user)])
@@ -262,7 +292,7 @@ public struct ServerAddressView: View, QRCodeParsing, URLSanitizing {
     ///
     func endWebView() {
         if let pollingToken {
-            delegate?.cancelPolling(by: pollingToken)
+            cancelPolling(pollingToken)
             self.pollingToken = nil
         }
 
@@ -285,37 +315,38 @@ public struct ServerAddressView: View, QRCodeParsing, URLSanitizing {
 
 #if DEBUG
 
-class ServerAddressViewPreviewDelegate: ServerAddressViewDelegate {
-    func addAccount(host: URL, name: String, password: String) {
-        print("Add account called.")
-    }
-
-    func beginPolling(at url: URL) async throws -> URL {
-        URL(fileURLWithPath: "/")
-    }
-
-    func cancelPolling(by token: String) {
-        print("Cancel polling called.")
-    }
-}
+// swiftlint:disable force_unwrapping
 
 #Preview("Without Shared Accounts") {
     let backgroundColor: Binding<Color> = .constant(.accentColor)
     let brandImage = Image(systemName: "questionmark.square.dashed")
     let sharedAccounts = [SharedAccount]()
 
-    return ServerAddressView(backgroundColor: backgroundColor, brandImage: brandImage, delegate: ServerAddressViewPreviewDelegate(), sharedAccounts: sharedAccounts, userAgent: nil)
+    ServerAddressView(backgroundColor: backgroundColor, brandImage: brandImage, sharedAccounts: sharedAccounts) { _, _, _ in
+        print("Add account!")
+    } beginPolling: { _, _ in
+        print("Begin polling!")
+        return URL(string: "about:blank")!
+    } cancelPolling: { _ in
+        print("Cancel polling!")
+    }
 }
 
 #Preview("With Shared Accounts") {
     let backgroundColor: Binding<Color> = .constant(.accentColor)
     let brandImage = Image(systemName: "questionmark.square.dashed")
     let sharedAccounts = [
-        // swiftlint:disable:next force_unwrapping
         SharedAccount("Jane Doe", on: URL(string: "http://localhost:8080")!, with: Image(systemName: "person.circle.fill"))
     ]
 
-    return ServerAddressView(backgroundColor: backgroundColor, brandImage: brandImage, delegate: ServerAddressViewPreviewDelegate(), sharedAccounts: sharedAccounts, userAgent: nil)
+    ServerAddressView(backgroundColor: backgroundColor, brandImage: brandImage, sharedAccounts: sharedAccounts) { _, _, _ in
+        print("Add account!")
+    } beginPolling: { _, _ in
+        print("Begin polling!")
+        return URL(string: "about:blank")!
+    } cancelPolling: { _ in
+        print("Cancel polling!")
+    }
 }
 
 #endif

@@ -40,18 +40,11 @@ extension View {
 }
 
 #Preview {
-    // swiftlint:disable force_unwrapping
-    let accounts = [
-        SharedAccount("jane", on: URL(string: "http://localhost:8080")!, with: Image(systemName: "person.circle.fill")),
-        SharedAccount("john", on: URL(string: "http://localhost:8081")!, with: Image(systemName: "bird.circle.fill")),
-        SharedAccount("jean", on: URL(string: "http://localhost:8082")!, with: Image(systemName: "leaf.circle.fill"))
-    ]
-
-    return ZStack {
+    ZStack {
         Color.blue
             .ignoresSafeArea()
     }
-    .sharedAccountsSheet(isPresented: .constant(true), sharedAccounts: accounts) { _ in
+    .sharedAccountsSheet(isPresented: .constant(true), sharedAccounts: PreviewData.sharedAccounts) { _ in
         print("Account selected!")
     }
 }
