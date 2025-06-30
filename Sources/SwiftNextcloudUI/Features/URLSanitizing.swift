@@ -23,12 +23,29 @@ extension URLSanitizing {
             return nil
         }
 
+        // Ensure HTTP(S) is used.
         if let givenScheme = components.scheme {
             if ["http", "https"].contains(givenScheme) == false {
                 return nil
             }
         } else {
             components.scheme = "https"
+        }
+
+        if components.path.isEmpty {
+            components.path = "/"
+        } else {
+            // Drop last path component, if it is a PHP script.
+            let pathComponents = components.path.split(separator: "/")
+
+            if let lastPathComponent = pathComponents.last, lastPathComponent == "index.php" {
+                components.path = pathComponents.dropLast().joined(separator: "/")
+            }
+
+            // Add trailing slash, if missing.
+            if components.path.hasSuffix("/") == false {
+                components.path = "\(components.path)/"
+            }
         }
 
         guard let url = components.url else {
