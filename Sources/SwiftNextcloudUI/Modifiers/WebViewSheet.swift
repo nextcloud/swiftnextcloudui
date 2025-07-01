@@ -45,7 +45,7 @@ extension View {
         Color.blue
             .ignoresSafeArea()
     }
-    .webSheet(initialURL: .constant(URL(string: "https://www.nextcloud.com")), isPresented: .constant(true), userAgent: nil) {
+    .webSheet(initialURL: .constant(URL(string: "http://localhost:8080")), isPresented: .constant(true), userAgent: nil) {
         print("Web sheet dismissed!")
     }
 }

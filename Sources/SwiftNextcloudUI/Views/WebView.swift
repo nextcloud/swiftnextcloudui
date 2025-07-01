@@ -83,5 +83,5 @@ public struct WebView: ViewRepresentable {
 
 #Preview {
     // swiftlint:disable force_unwrapping
-    WebView(initialURL: .constant(URL(string: "https://www.nextcloud.com")!), userAgent: nil)
+    WebView(initialURL: .constant(URL(string: "http://localhost:8080")!), userAgent: nil)
 }
