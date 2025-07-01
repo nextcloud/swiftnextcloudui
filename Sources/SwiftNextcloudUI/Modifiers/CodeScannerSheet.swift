@@ -29,16 +29,6 @@ struct CodeScannerSheet: ViewModifier {
                 .ignoresSafeArea()
                 .toolbarTitleDisplayMode(.inline)
                 .navigationTitle(String(localized: "Scan QR Code", comment: "Navigation bar title"))
-                .toolbar {
-                    ToolbarItem(placement: .topBarLeading) {
-                        Button {
-                            dismiss()
-                        } label: {
-                            Text("Cancel", comment: "Button label")
-                        }
-                        .foregroundStyle(.white)
-                    }
-                }
             }
         }
     }
