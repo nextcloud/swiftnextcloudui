@@ -50,6 +50,9 @@ public struct ServerAddressView: View, QRCodeParsing, URLSanitizing {
     ///     - brandImage: The image to display on top of the server address view. Falls back to an SF Symbol placeholder in case of `nil`.
     ///     - sharedAccounts: Any shared accounts from the app group being available for selection and faster login.
     ///     - userAgent: An optional user agent string to override the one used by ``WKWebView``.
+    ///     - addAccount: see ``AddAccountHandler``.
+    ///     - beginPolling: see ``BeginPollingHandler``.
+    ///     - cancelPolling: see ``CancelPollingHandler``.
     ///
     public init(backgroundColor: Binding<Color>, brandImage: Image, sharedAccounts: [SharedAccount], userAgent: String? = nil, addAccount: @escaping AddAccountHandler, beginPolling: @escaping BeginPollingHandler, cancelPolling: @escaping CancelPollingHandler) {
         self._backgroundColor = backgroundColor

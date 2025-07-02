@@ -22,7 +22,13 @@ Key traits of this package:
 ### Login
 
 - ``ServerAddressView``
-- ``ServerAddressViewDelegate``
+- ``AddAccountHandler``
+- ``BeginPollingHandler``
+- ``CancelPollingHandler``
+
+### Account Menu
+
+- ``AccountButtonView``
 
 ### Generic Views
 
@@ -31,4 +37,5 @@ Key traits of this package:
 
 ### Data Models
 
+- ``Account``
 - ``SharedAccount``

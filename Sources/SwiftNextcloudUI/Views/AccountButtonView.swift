@@ -25,7 +25,7 @@ public struct AccountButtonView: View {
     ///     - accounts: All accounts available for selection.
     ///     - showLogin: Whether the app should present a login view or not.
     ///     - showSettings: Whether the app should present a settings view or not.
-    ///     - supportsMultipleAccounts: Whether the button should adapt for a multi-account presentation.
+    ///     - supportsMultipleAccounts: Whether the button should adapt for a multi-account presentation. This means the offering to add another account and showing a heading above the account list which otherwise contains a single item.
     ///     - showPopover: Whether the popover is presented by default or not.
     ///
     public init(activeAccount: Binding<Account?>, accounts: [Account], showLogin: Binding<Bool>, showSettings: Binding<Bool>, supportsMultipleAccounts: Bool = true, showPopover: Bool = false) {
