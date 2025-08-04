@@ -12,13 +12,13 @@
         "af": {
           "stringUnit": {
             "state": "translated",
-            "value": "Accounts"
+            "value": "Rekeninge"
           }
         },
         "an": {
           "stringUnit": {
             "state": "translated",
-            "value": "Accounts"
+            "value": "Cuentas"
           }
         },
         "ar": {
@@ -36,13 +36,13 @@
         "az": {
           "stringUnit": {
             "state": "translated",
-            "value": "Accounts"
+            "value": "Hesablar"
           }
         },
         "be": {
           "stringUnit": {
             "state": "translated",
-            "value": "Accounts"
+            "value": "Уліковыя запісы"
           }
         },
         "bg_BG": {
@@ -54,7 +54,7 @@
         "bn_BD": {
           "stringUnit": {
             "state": "translated",
-            "value": "Accounts"
+            "value": "অ্যাকাউন্টস"
           }
         },
         "br": {
@@ -66,7 +66,7 @@
         "bs": {
           "stringUnit": {
             "state": "translated",
-            "value": "Accounts"
+            "value": "Računi"
           }
         },
         "ca": {
@@ -84,7 +84,7 @@
         "cy_GB": {
           "stringUnit": {
             "state": "translated",
-            "value": "Accounts"
+            "value": "Cyfrifon"
           }
         },
         "da": {
@@ -132,37 +132,37 @@
         "es_419": {
           "stringUnit": {
             "state": "translated",
-            "value": "Accounts"
+            "value": "Cuentas"
           }
         },
         "es_AR": {
           "stringUnit": {
             "state": "translated",
-            "value": "Accounts"
+            "value": "Cuentas"
           }
         },
         "es_CL": {
           "stringUnit": {
             "state": "translated",
-            "value": "Accounts"
+            "value": "Cuentas"
           }
         },
         "es_CO": {
           "stringUnit": {
             "state": "translated",
-            "value": "Accounts"
+            "value": "Cuentas"
           }
         },
         "es_CR": {
           "stringUnit": {
             "state": "translated",
-            "value": "Accounts"
+            "value": "Cuentas"
           }
         },
         "es_DO": {
           "stringUnit": {
             "state": "translated",
-            "value": "Accounts"
+            "value": "Cuentas"
           }
         },
         "es_EC": {
@@ -174,13 +174,13 @@
         "es_GT": {
           "stringUnit": {
             "state": "translated",
-            "value": "Accounts"
+            "value": "Cuentas"
           }
         },
         "es_HN": {
           "stringUnit": {
             "state": "translated",
-            "value": "Accounts"
+            "value": "Cuentas"
           }
         },
         "es_MX": {
@@ -192,43 +192,43 @@
         "es_NI": {
           "stringUnit": {
             "state": "translated",
-            "value": "Accounts"
+            "value": "Cuentas"
           }
         },
         "es_PA": {
           "stringUnit": {
             "state": "translated",
-            "value": "Accounts"
+            "value": "Cuentas"
           }
         },
         "es_PE": {
           "stringUnit": {
             "state": "translated",
-            "value": "Accounts"
+            "value": "Cuentas"
           }
         },
         "es_PR": {
           "stringUnit": {
             "state": "translated",
-            "value": "Accounts"
+            "value": "Cuentas"
           }
         },
         "es_PY": {
           "stringUnit": {
             "state": "translated",
-            "value": "Accounts"
+            "value": "Cuentas"
           }
         },
         "es_SV": {
           "stringUnit": {
             "state": "translated",
-            "value": "Accounts"
+            "value": "Cuentas"
           }
         },
         "es_UY": {
           "stringUnit": {
             "state": "translated",
-            "value": "Accounts"
+            "value": "Cuentas"
           }
         },
         "et_EE": {
@@ -258,7 +258,7 @@
         "fo": {
           "stringUnit": {
             "state": "translated",
-            "value": "Accounts"
+            "value": "Kontur"
           }
         },
         "fr": {
@@ -288,13 +288,13 @@
         "he": {
           "stringUnit": {
             "state": "translated",
-            "value": "Accounts"
+            "value": "חשבונות"
           }
         },
         "hi_IN": {
           "stringUnit": {
             "state": "translated",
-            "value": "Accounts"
+            "value": "खाते"
           }
         },
         "hr": {
@@ -306,7 +306,7 @@
         "hsb": {
           "stringUnit": {
             "state": "translated",
-            "value": "Accounts"
+            "value": "Konta"
           }
         },
         "hu_HU": {
@@ -318,25 +318,25 @@
         "hy": {
           "stringUnit": {
             "state": "translated",
-            "value": "Accounts"
+            "value": "Հաշիվներ"
           }
         },
         "ia": {
           "stringUnit": {
             "state": "translated",
-            "value": "Accounts"
+            "value": "Contos"
           }
         },
         "id": {
           "stringUnit": {
             "state": "translated",
-            "value": "Accounts"
+            "value": "Akun"
           }
         },
         "ig": {
           "stringUnit": {
             "state": "translated",
-            "value": "Accounts"
+            "value": "Akaụntụ"
           }
         },
         "is": {
@@ -360,7 +360,7 @@
         "ka": {
           "stringUnit": {
             "state": "translated",
-            "value": "Accounts"
+            "value": "ანგარიშები"
           }
         },
         "ka_GE": {
@@ -378,13 +378,13 @@
         "km": {
           "stringUnit": {
             "state": "translated",
-            "value": "Accounts"
+            "value": "គណនី"
           }
         },
         "kn": {
           "stringUnit": {
             "state": "translated",
-            "value": "Accounts"
+            "value": "ಖಾತೆಗಳು"
           }
         },
         "ko": {
@@ -396,13 +396,13 @@
         "la": {
           "stringUnit": {
             "state": "translated",
-            "value": "Accounts"
+            "value": "Rationes"
           }
         },
         "lb": {
           "stringUnit": {
             "state": "translated",
-            "value": "Accounts"
+            "value": "Konten"
           }
         },
         "lo": {
@@ -432,25 +432,25 @@
         "mn": {
           "stringUnit": {
             "state": "translated",
-            "value": "Accounts"
+            "value": "Данс"
           }
         },
         "mr": {
           "stringUnit": {
             "state": "translated",
-            "value": "Accounts"
+            "value": "खाती"
           }
         },
         "ms_MY": {
           "stringUnit": {
             "state": "translated",
-            "value": "Accounts"
+            "value": "Akaun"
           }
         },
         "my": {
           "stringUnit": {
             "state": "translated",
-            "value": "Accounts"
+            "value": "အကောင့်များ"
           }
         },
         "nb_NO": {
@@ -462,25 +462,25 @@
         "ne": {
           "stringUnit": {
             "state": "translated",
-            "value": "Accounts"
+            "value": "खाताहरू"
           }
         },
         "nl": {
           "stringUnit": {
             "state": "translated",
-            "value": "Accounts"
+            "value": "Rekeningen"
           }
         },
         "nn_NO": {
           "stringUnit": {
             "state": "translated",
-            "value": "Accounts"
+            "value": "Kontoar"
           }
         },
         "oc": {
           "stringUnit": {
             "state": "translated",
-            "value": "Accounts"
+            "value": "Comptes"
           }
         },
         "pl": {
@@ -492,7 +492,7 @@
         "ps": {
           "stringUnit": {
             "state": "translated",
-            "value": "Accounts"
+            "value": "حسابونه"
           }
         },
         "pt_BR": {
@@ -522,13 +522,13 @@
         "sc": {
           "stringUnit": {
             "state": "translated",
-            "value": "Accounts"
+            "value": "Contos"
           }
         },
         "si": {
           "stringUnit": {
             "state": "translated",
-            "value": "Accounts"
+            "value": "ගිණුම්"
           }
         },
         "sk_SK": {
@@ -558,7 +558,7 @@
         "sr@latin": {
           "stringUnit": {
             "state": "translated",
-            "value": "Accounts"
+            "value": "Nalozi"
           }
         },
         "sv": {
@@ -576,7 +576,7 @@
         "ta": {
           "stringUnit": {
             "state": "translated",
-            "value": "Accounts"
+            "value": "கணக்குகள்"
           }
         },
         "th_TH": {
@@ -612,7 +612,7 @@
         "ur_PK": {
           "stringUnit": {
             "state": "translated",
-            "value": "Accounts"
+            "value": "اکاؤنٹس"
           }
         },
         "uz": {
@@ -648,7 +648,7 @@
         "zu_ZA": {
           "stringUnit": {
             "state": "translated",
-            "value": "Accounts"
+            "value": "Ama-akhawunti"
           }
         }
       }
@@ -659,85 +659,85 @@
         "af": {
           "stringUnit": {
             "state": "translated",
-            "value": "Accounts from other Apps"
+            "value": "Rekeninge van ander programme"
           }
         },
         "an": {
           "stringUnit": {
             "state": "translated",
-            "value": "Accounts from other Apps"
+            "value": "Cuentas d'atras aplicacions"
           }
         },
         "ar": {
           "stringUnit": {
             "state": "translated",
-            "value": "Accounts from other Apps"
+            "value": "الحسابات من التطبيقات الأخرى"
           }
         },
         "ast": {
           "stringUnit": {
             "state": "translated",
-            "value": "Accounts from other Apps"
+            "value": "Cuentes d'otres aplicaciones"
           }
         },
         "az": {
           "stringUnit": {
             "state": "translated",
-            "value": "Accounts from other Apps"
+            "value": "Digər tətbiqlərdən hesablar"
           }
         },
         "be": {
           "stringUnit": {
             "state": "translated",
-            "value": "Accounts from other Apps"
+            "value": "Уліковыя запісы з іншых прыкладанняў"
           }
         },
         "bg_BG": {
           "stringUnit": {
             "state": "translated",
-            "value": "Accounts from other Apps"
+            "value": "Профили от други приложения"
           }
         },
         "bn_BD": {
           "stringUnit": {
             "state": "translated",
-            "value": "Accounts from other Apps"
+            "value": "অন্যান্য অ্যাপস থেকে অ্যাকাউন্টস"
           }
         },
         "br": {
           "stringUnit": {
             "state": "translated",
-            "value": "Accounts from other Apps"
+            "value": "Kontoù eus arloadoù all"
           }
         },
         "bs": {
           "stringUnit": {
             "state": "translated",
-            "value": "Accounts from other Apps"
+            "value": "Računi iz drugih aplikacija"
           }
         },
         "ca": {
           "stringUnit": {
             "state": "translated",
-            "value": "Accounts from other Apps"
+            "value": "Comptes d'altres aplicacions"
           }
         },
         "cs_CZ": {
           "stringUnit": {
             "state": "translated",
-            "value": "Accounts from other Apps"
+            "value": "Účty z jiných aplikací"
           }
         },
         "cy_GB": {
           "stringUnit": {
             "state": "translated",
-            "value": "Accounts from other Apps"
+            "value": "Cyfrifon o apiau eraill"
           }
         },
         "da": {
           "stringUnit": {
             "state": "translated",
-            "value": "Accounts from other Apps"
+            "value": "Konti fra andre apps"
           }
         },
         "de": {
@@ -755,7 +755,7 @@
         "el": {
           "stringUnit": {
             "state": "translated",
-            "value": "Accounts from other Apps"
+            "value": "Λογαριασμοί από άλλες εφαρμογές"
           }
         },
         "en": {
@@ -773,7 +773,7 @@
         "eo": {
           "stringUnit": {
             "state": "translated",
-            "value": "Accounts from other Apps"
+            "value": "Kontoj el aliaj aplikaĵoj"
           }
         },
         "es": {
@@ -785,103 +785,103 @@
         "es_419": {
           "stringUnit": {
             "state": "translated",
-            "value": "Accounts from other Apps"
+            "value": "Cuentas de otras aplicaciones"
           }
         },
         "es_AR": {
           "stringUnit": {
             "state": "translated",
-            "value": "Accounts from other Apps"
+            "value": "Cuentas de otras aplicaciones"
           }
         },
         "es_CL": {
           "stringUnit": {
             "state": "translated",
-            "value": "Accounts from other Apps"
+            "value": "Cuentas de otras aplicaciones"
           }
         },
         "es_CO": {
           "stringUnit": {
             "state": "translated",
-            "value": "Accounts from other Apps"
+            "value": "Cuentas de otras aplicaciones"
           }
         },
         "es_CR": {
           "stringUnit": {
             "state": "translated",
-            "value": "Accounts from other Apps"
+            "value": "Cuentas de otras aplicaciones"
           }
         },
         "es_DO": {
           "stringUnit": {
             "state": "translated",
-            "value": "Accounts from other Apps"
+            "value": "Cuentas de otras aplicaciones"
           }
         },
         "es_EC": {
           "stringUnit": {
             "state": "translated",
-            "value": "Accounts from other Apps"
+            "value": "Cuentas de otras aplicaciones"
           }
         },
         "es_GT": {
           "stringUnit": {
             "state": "translated",
-            "value": "Accounts from other Apps"
+            "value": "Cuentas de otras aplicaciones"
           }
         },
         "es_HN": {
           "stringUnit": {
             "state": "translated",
-            "value": "Accounts from other Apps"
+            "value": "Cuentas de otras aplicaciones"
           }
         },
         "es_MX": {
           "stringUnit": {
             "state": "translated",
-            "value": "Accounts from other Apps"
+            "value": "Cuentas de otras aplicaciones"
           }
         },
         "es_NI": {
           "stringUnit": {
             "state": "translated",
-            "value": "Accounts from other Apps"
+            "value": "Cuentas de otras aplicaciones"
           }
         },
         "es_PA": {
           "stringUnit": {
             "state": "translated",
-            "value": "Accounts from other Apps"
+            "value": "Cuentas de otras aplicaciones"
           }
         },
         "es_PE": {
           "stringUnit": {
             "state": "translated",
-            "value": "Accounts from other Apps"
+            "value": "Cuentas de otras aplicaciones"
           }
         },
         "es_PR": {
           "stringUnit": {
             "state": "translated",
-            "value": "Accounts from other Apps"
+            "value": "Cuentas de otras aplicaciones"
           }
         },
         "es_PY": {
           "stringUnit": {
             "state": "translated",
-            "value": "Accounts from other Apps"
+            "value": "Cuentas de otras aplicaciones"
           }
         },
         "es_SV": {
           "stringUnit": {
             "state": "translated",
-            "value": "Accounts from other Apps"
+            "value": "Cuentas de otras aplicaciones"
           }
         },
         "es_UY": {
           "stringUnit": {
             "state": "translated",
-            "value": "Accounts from other Apps"
+            "value": "Cuentas de otras aplicaciones"
           }
         },
         "et_EE": {
@@ -893,13 +893,13 @@
         "eu": {
           "stringUnit": {
             "state": "translated",
-            "value": "Accounts from other Apps"
+            "value": "Beste aplikazioen kontuak"
           }
         },
         "fa": {
           "stringUnit": {
             "state": "translated",
-            "value": "Accounts from other Apps"
+            "value": "حساب‌ها از برنامه‌های دیگر"
           }
         },
         "fi_FI": {
@@ -911,163 +911,163 @@
         "fo": {
           "stringUnit": {
             "state": "translated",
-            "value": "Accounts from other Apps"
+            "value": "Kontur frá øðrum øppum"
           }
         },
         "fr": {
           "stringUnit": {
             "state": "translated",
-            "value": "Accounts from other Apps"
+            "value": "Comptes d'autres applications"
           }
         },
         "ga": {
           "stringUnit": {
             "state": "translated",
-            "value": "Accounts from other Apps"
+            "value": "Cuntais ó aipeanna eile"
           }
         },
         "gd": {
           "stringUnit": {
             "state": "translated",
-            "value": "Accounts from other Apps"
+            "value": "Cunntasan bho aplacaidean eile"
           }
         },
         "gl": {
           "stringUnit": {
             "state": "translated",
-            "value": "Accounts from other Apps"
+            "value": "Contas doutras aplicacións"
           }
         },
         "he": {
           "stringUnit": {
             "state": "translated",
-            "value": "Accounts from other Apps"
+            "value": "חשבונות מאפליקציות אחרות"
           }
         },
         "hi_IN": {
           "stringUnit": {
             "state": "translated",
-            "value": "Accounts from other Apps"
+            "value": "अन्य ऐप्स से खाते"
           }
         },
         "hr": {
           "stringUnit": {
             "state": "translated",
-            "value": "Accounts from other Apps"
+            "value": "Računi iz drugih aplikacija"
           }
         },
         "hsb": {
           "stringUnit": {
             "state": "translated",
-            "value": "Accounts from other Apps"
+            "value": "Konta z druhich aplikacijow"
           }
         },
         "hu_HU": {
           "stringUnit": {
             "state": "translated",
-            "value": "Accounts from other Apps"
+            "value": "Fiókok más alkalmazásokból"
           }
         },
         "hy": {
           "stringUnit": {
             "state": "translated",
-            "value": "Accounts from other Apps"
+            "value": "Հաշիվներ այլ հավելվածներից"
           }
         },
         "ia": {
           "stringUnit": {
             "state": "translated",
-            "value": "Accounts from other Apps"
+            "value": "Contos de altere applicationes"
           }
         },
         "id": {
           "stringUnit": {
             "state": "translated",
-            "value": "Accounts from other Apps"
+            "value": "Akun dari aplikasi lain"
           }
         },
         "ig": {
           "stringUnit": {
             "state": "translated",
-            "value": "Accounts from other Apps"
+            "value": "Akaụntụ sitere na ngwa ndị ọzọ"
           }
         },
         "is": {
           "stringUnit": {
             "state": "translated",
-            "value": "Accounts from other Apps"
+            "value": "Notendaaðgangar úr öðrum forritum"
           }
         },
         "it": {
           "stringUnit": {
             "state": "translated",
-            "value": "Accounts from other Apps"
+            "value": "Account da altre app"
           }
         },
         "ja_JP": {
           "stringUnit": {
             "state": "translated",
-            "value": "Accounts from other Apps"
+            "value": "他のアプリのアカウント"
           }
         },
         "ka": {
           "stringUnit": {
             "state": "translated",
-            "value": "Accounts from other Apps"
+            "value": "ანგარიშები სხვა აპლიკაციებიდან"
           }
         },
         "ka_GE": {
           "stringUnit": {
             "state": "translated",
-            "value": "Accounts from other Apps"
+            "value": "ანგარიშები სხვა აპლიკაციებიდან"
           }
         },
         "kab": {
           "stringUnit": {
             "state": "translated",
-            "value": "Accounts from other Apps"
+            "value": "Imiḍanen n isnasen-nniḍen"
           }
         },
         "km": {
           "stringUnit": {
             "state": "translated",
-            "value": "Accounts from other Apps"
+            "value": "គណនីពីកម្មវិធីផ្សេងទៀត"
           }
         },
         "kn": {
           "stringUnit": {
             "state": "translated",
-            "value": "Accounts from other Apps"
+            "value": "ಇತರ ಅಪ್ಲಿಕೇಶನ್‌ಗಳಿಂದ ಖಾತೆಗಳು"
           }
         },
         "ko": {
           "stringUnit": {
             "state": "translated",
-            "value": "Accounts from other Apps"
+            "value": "다른 앱의 계정"
           }
         },
         "la": {
           "stringUnit": {
             "state": "translated",
-            "value": "Accounts from other Apps"
+            "value": "Rationes ex aliis applicationibus"
           }
         },
         "lb": {
           "stringUnit": {
             "state": "translated",
-            "value": "Accounts from other Apps"
+            "value": "Konten aus aneren Apps"
           }
         },
         "lo": {
           "stringUnit": {
             "state": "translated",
-            "value": "Accounts from other Apps"
+            "value": "ບັນຊີຈາກແອັບອື່ນໆ"
           }
         },
         "lt_LT": {
           "stringUnit": {
             "state": "translated",
-            "value": "Accounts from other Apps"
+            "value": "Paskyros iš kitų programų"
           }
         },
         "lv": {
@@ -1079,73 +1079,73 @@
         "mk": {
           "stringUnit": {
             "state": "translated",
-            "value": "Accounts from other Apps"
+            "value": "Сметки од други апликации"
           }
         },
         "mn": {
           "stringUnit": {
             "state": "translated",
-            "value": "Accounts from other Apps"
+            "value": "Бусад апп-уудын данс"
           }
         },
         "mr": {
           "stringUnit": {
             "state": "translated",
-            "value": "Accounts from other Apps"
+            "value": "इतर अॅप्समधील खाती"
           }
         },
         "ms_MY": {
           "stringUnit": {
             "state": "translated",
-            "value": "Accounts from other Apps"
+            "value": "Akaun dari aplikasi lain"
           }
         },
         "my": {
           "stringUnit": {
             "state": "translated",
-            "value": "Accounts from other Apps"
+            "value": "အခြားအက်ပ်များမှအကောင့်များ"
           }
         },
         "nb_NO": {
           "stringUnit": {
             "state": "translated",
-            "value": "Accounts from other Apps"
+            "value": "Kontoer fra andre apper"
           }
         },
         "ne": {
           "stringUnit": {
             "state": "translated",
-            "value": "Accounts from other Apps"
+            "value": "अन्य एप्सबाट खाताहरू"
           }
         },
         "nl": {
           "stringUnit": {
             "state": "translated",
-            "value": "Accounts from other Apps"
+            "value": "Accounts van andere apps"
           }
         },
         "nn_NO": {
           "stringUnit": {
             "state": "translated",
-            "value": "Accounts from other Apps"
+            "value": "Kontoar frå andre appar"
           }
         },
         "oc": {
           "stringUnit": {
             "state": "translated",
-            "value": "Accounts from other Apps"
+            "value": "Comptes d'autras aplicacions"
           }
         },
         "pl": {
           "stringUnit": {
             "state": "translated",
-            "value": "Accounts from other Apps"
+            "value": "Konta z innych aplikacji"
           }
         },
         "ps": {
           "stringUnit": {
             "state": "translated",
-            "value": "Accounts from other Apps"
+            "value": "د نورو غوښتنلیکونو څخه حسابونه"
           }
         },
         "pt_BR": {
@@ -1157,55 +1157,55 @@
         "pt_PT": {
           "stringUnit": {
             "state": "translated",
-            "value": "Accounts from other Apps"
+            "value": "Contas de outras aplicações"
           }
         },
         "ro": {
           "stringUnit": {
             "state": "translated",
-            "value": "Accounts from other Apps"
+            "value": "Conturi din alte aplicații"
           }
         },
         "ru": {
           "stringUnit": {
             "state": "translated",
-            "value": "Accounts from other Apps"
+            "value": "Учётные записи из других приложений"
           }
         },
         "sc": {
           "stringUnit": {
             "state": "translated",
-            "value": "Accounts from other Apps"
+            "value": "Contos de àteras aplicatziones"
           }
         },
         "si": {
           "stringUnit": {
             "state": "translated",
-            "value": "Accounts from other Apps"
+            "value": "වෙනත් යෙදුම්වලින් ගිණුම්"
           }
         },
         "sk_SK": {
           "stringUnit": {
             "state": "translated",
-            "value": "Accounts from other Apps"
+            "value": "Účty z iných aplikácií"
           }
         },
         "sl": {
           "stringUnit": {
             "state": "translated",
-            "value": "Accounts from other Apps"
+            "value": "Računi iz drugih aplikacij"
           }
         },
         "sq": {
           "stringUnit": {
             "state": "translated",
-            "value": "Accounts from other Apps"
+            "value": "Llogari nga aplikacione të tjera"
           }
         },
         "sr": {
           "stringUnit": {
             "state": "translated",
-            "value": "Accounts from other Apps"
+            "value": "Налози из других апликација"
           }
         },
         "sv": {
@@ -1217,67 +1217,67 @@
         "sw": {
           "stringUnit": {
             "state": "translated",
-            "value": "Accounts from other Apps"
+            "value": "Akaunti kutoka programu zingine"
           }
         },
         "ta": {
           "stringUnit": {
             "state": "translated",
-            "value": "Accounts from other Apps"
+            "value": "பிற பயன்பாடுகளில் இருந்து கணக்குகள்"
           }
         },
         "th_TH": {
           "stringUnit": {
             "state": "translated",
-            "value": "Accounts from other Apps"
+            "value": "บัญชีจากแอปอื่นๆ"
           }
         },
         "tk": {
           "stringUnit": {
             "state": "translated",
-            "value": "Accounts from other Apps"
+            "value": "Beýleki programlardan hasaplar"
           }
         },
         "tr": {
           "stringUnit": {
             "state": "translated",
-            "value": "Accounts from other Apps"
+            "value": "Diğer uygulamalardan hesaplar"
           }
         },
         "ug": {
           "stringUnit": {
             "state": "translated",
-            "value": "Accounts from other Apps"
+            "value": "باشقا ئەپلەردىكى ھېسابات"
           }
         },
         "uk": {
           "stringUnit": {
             "state": "translated",
-            "value": "Accounts from other Apps"
+            "value": "Облікові записи з інших додатків"
           }
         },
         "ur_PK": {
           "stringUnit": {
             "state": "translated",
-            "value": "Accounts from other Apps"
+            "value": "دوسرے ایپس سے اکاؤنٹس"
           }
         },
         "uz": {
           "stringUnit": {
             "state": "translated",
-            "value": "Accounts from other Apps"
+            "value": "Boshqa ilovalardan hisoblar"
           }
         },
         "vi": {
           "stringUnit": {
             "state": "translated",
-            "value": "Accounts from other Apps"
+            "value": "Tài khoản từ các ứng dụng khác"
           }
         },
         "zh_CN": {
           "stringUnit": {
             "state": "translated",
-            "value": "Accounts from other Apps"
+            "value": "来自其他应用的账号"
           }
         },
         "zh_HK": {
@@ -1295,13 +1295,13 @@
         "zu_ZA": {
           "stringUnit": {
             "state": "translated",
-            "value": "Accounts from other Apps"
+            "value": "Ama-akhawunti avela kwezinye izinhlelo zokusebenza"
           }
         },
         "sr@latin": {
           "stringUnit": {
             "state": "translated",
-            "value": "Accounts from other Apps"
+            "value": "Nalozi iz drugih aplikacija"
           }
         }
       }
@@ -1312,85 +1312,85 @@
         "af": {
           "stringUnit": {
             "state": "translated",
-            "value": "Login Failed"
+            "value": "Aanmelding het gefaal"
           }
         },
         "an": {
           "stringUnit": {
             "state": "translated",
-            "value": "Login Failed"
+            "value": "Fallo d'inicio de sesión"
           }
         },
         "ar": {
           "stringUnit": {
             "state": "translated",
-            "value": "Login Failed"
+            "value": "فشل تسجيل الدخول"
           }
         },
         "ast": {
           "stringUnit": {
             "state": "translated",
-            "value": "Login Failed"
+            "value": "Falló l'aniciu de sesión"
           }
         },
         "az": {
           "stringUnit": {
             "state": "translated",
-            "value": "Login Failed"
+            "value": "Giriş uğursuz oldu"
           }
         },
         "be": {
           "stringUnit": {
             "state": "translated",
-            "value": "Login Failed"
+            "value": "Памылка ўваходу"
           }
         },
         "bg_BG": {
           "stringUnit": {
             "state": "translated",
-            "value": "Login Failed"
+            "value": "Неуспешно влизане"
           }
         },
         "bn_BD": {
           "stringUnit": {
             "state": "translated",
-            "value": "Login Failed"
+            "value": "লগইন ব্যর্থ"
           }
         },
         "br": {
           "stringUnit": {
             "state": "translated",
-            "value": "Login Failed"
+            "value": "C'hwitet eo ar gevreadur"
           }
         },
         "bs": {
           "stringUnit": {
             "state": "translated",
-            "value": "Login Failed"
+            "value": "Prijava neuspješna"
           }
         },
         "ca": {
           "stringUnit": {
             "state": "translated",
-            "value": "Login Failed"
+            "value": "Error d'inici de sessió"
           }
         },
         "cs_CZ": {
           "stringUnit": {
             "state": "translated",
-            "value": "Login Failed"
+            "value": "Přihlášení se nezdařilo"
           }
         },
         "cy_GB": {
           "stringUnit": {
             "state": "translated",
-            "value": "Login Failed"
+            "value": "Methwyd mewngofnodi"
           }
         },
         "da": {
           "stringUnit": {
             "state": "translated",
-            "value": "Login Failed"
+            "value": "Login mislykkedes"
           }
         },
         "de": {
@@ -1408,7 +1408,7 @@
         "el": {
           "stringUnit": {
             "state": "translated",
-            "value": "Login Failed"
+            "value": "Η σύνδεση απέτυχε"
           }
         },
         "en": {
@@ -1426,7 +1426,7 @@
         "eo": {
           "stringUnit": {
             "state": "translated",
-            "value": "Login Failed"
+            "value": "Ensaluto malsukcesis"
           }
         },
         "es": {
@@ -1438,103 +1438,103 @@
         "es_419": {
           "stringUnit": {
             "state": "translated",
-            "value": "Login Failed"
+            "value": "Error de inicio de sesión"
           }
         },
         "es_AR": {
           "stringUnit": {
             "state": "translated",
-            "value": "Login Failed"
+            "value": "Error de inicio de sesión"
           }
         },
         "es_CL": {
           "stringUnit": {
             "state": "translated",
-            "value": "Login Failed"
+            "value": "Error de inicio de sesión"
           }
         },
         "es_CO": {
           "stringUnit": {
             "state": "translated",
-            "value": "Login Failed"
+            "value": "Error de inicio de sesión"
           }
         },
         "es_CR": {
           "stringUnit": {
             "state": "translated",
-            "value": "Login Failed"
+            "value": "Error de inicio de sesión"
           }
         },
         "es_DO": {
           "stringUnit": {
             "state": "translated",
-            "value": "Login Failed"
+            "value": "Error de inicio de sesión"
           }
         },
         "es_EC": {
           "stringUnit": {
             "state": "translated",
-            "value": "Login Failed"
+            "value": "Error de inicio de sesión"
           }
         },
         "es_GT": {
           "stringUnit": {
             "state": "translated",
-            "value": "Login Failed"
+            "value": "Error de inicio de sesión"
           }
         },
         "es_HN": {
           "stringUnit": {
             "state": "translated",
-            "value": "Login Failed"
+            "value": "Error de inicio de sesión"
           }
         },
         "es_MX": {
           "stringUnit": {
             "state": "translated",
-            "value": "Login Failed"
+            "value": "Error de inicio de sesión"
           }
         },
         "es_NI": {
           "stringUnit": {
             "state": "translated",
-            "value": "Login Failed"
+            "value": "Error de inicio de sesión"
           }
         },
         "es_PA": {
           "stringUnit": {
             "state": "translated",
-            "value": "Login Failed"
+            "value": "Error de inicio de sesión"
           }
         },
         "es_PE": {
           "stringUnit": {
             "state": "translated",
-            "value": "Login Failed"
+            "value": "Error de inicio de sesión"
           }
         },
         "es_PR": {
           "stringUnit": {
             "state": "translated",
-            "value": "Login Failed"
+            "value": "Error de inicio de sesión"
           }
         },
         "es_PY": {
           "stringUnit": {
             "state": "translated",
-            "value": "Login Failed"
+            "value": "Error de inicio de sesión"
           }
         },
         "es_SV": {
           "stringUnit": {
             "state": "translated",
-            "value": "Login Failed"
+            "value": "Error de inicio de sesión"
           }
         },
         "es_UY": {
           "stringUnit": {
             "state": "translated",
-            "value": "Login Failed"
+            "value": "Error de inicio de sesión"
           }
         },
         "et_EE": {
@@ -1546,13 +1546,13 @@
         "eu": {
           "stringUnit": {
             "state": "translated",
-            "value": "Login Failed"
+            "value": "Saio hasteak huts egin du"
           }
         },
         "fa": {
           "stringUnit": {
             "state": "translated",
-            "value": "Login Failed"
+            "value": "ورود ناموفق"
           }
         },
         "fi_FI": {
@@ -1564,163 +1564,163 @@
         "fo": {
           "stringUnit": {
             "state": "translated",
-            "value": "Login Failed"
+            "value": "Login miseydnaðist"
           }
         },
         "fr": {
           "stringUnit": {
             "state": "translated",
-            "value": "Login Failed"
+            "value": "Échec de la connexion"
           }
         },
         "ga": {
           "stringUnit": {
             "state": "translated",
-            "value": "Login Failed"
+            "value": "Theip ar logáil isteach"
           }
         },
         "gd": {
           "stringUnit": {
             "state": "translated",
-            "value": "Login Failed"
+            "value": "Dh'fhàillig an clàradh a-steach"
           }
         },
         "gl": {
           "stringUnit": {
             "state": "translated",
-            "value": "Login Failed"
+            "value": "Erro de inicio de sesión"
           }
         },
         "he": {
           "stringUnit": {
             "state": "translated",
-            "value": "Login Failed"
+            "value": "כניסה נכשלה"
           }
         },
         "hi_IN": {
           "stringUnit": {
             "state": "translated",
-            "value": "Login Failed"
+            "value": "लॉगिन विफल"
           }
         },
         "hr": {
           "stringUnit": {
             "state": "translated",
-            "value": "Login Failed"
+            "value": "Prijava neuspješna"
           }
         },
         "hsb": {
           "stringUnit": {
             "state": "translated",
-            "value": "Login Failed"
+            "value": "Přizjewjenje je so njeporadźiło"
           }
         },
         "hu_HU": {
           "stringUnit": {
             "state": "translated",
-            "value": "Login Failed"
+            "value": "Bejelentkezés sikertelen"
           }
         },
         "hy": {
           "stringUnit": {
             "state": "translated",
-            "value": "Login Failed"
+            "value": "Մուտքը չհաջողվեց"
           }
         },
         "ia": {
           "stringUnit": {
             "state": "translated",
-            "value": "Login Failed"
+            "value": "Authentication fallite"
           }
         },
         "id": {
           "stringUnit": {
             "state": "translated",
-            "value": "Login Failed"
+            "value": "Login gagal"
           }
         },
         "ig": {
           "stringUnit": {
             "state": "translated",
-            "value": "Login Failed"
+            "value": "Nbanye adaghị"
           }
         },
         "is": {
           "stringUnit": {
             "state": "translated",
-            "value": "Login Failed"
+            "value": "Innskráning mistókst"
           }
         },
         "it": {
           "stringUnit": {
             "state": "translated",
-            "value": "Login Failed"
+            "value": "Accesso non riuscito"
           }
         },
         "ja_JP": {
           "stringUnit": {
             "state": "translated",
-            "value": "Login Failed"
+            "value": "ログインに失敗しました"
           }
         },
         "ka": {
           "stringUnit": {
             "state": "translated",
-            "value": "Login Failed"
+            "value": "შესვლა ვერ მოხერხდა"
           }
         },
         "ka_GE": {
           "stringUnit": {
             "state": "translated",
-            "value": "Login Failed"
+            "value": "შესვლა ვერ მოხერხდა"
           }
         },
         "kab": {
           "stringUnit": {
             "state": "translated",
-            "value": "Login Failed"
+            "value": "Tuqqna ur teddi ara"
           }
         },
         "km": {
           "stringUnit": {
             "state": "translated",
-            "value": "Login Failed"
+            "value": "ការចូលបរាជ័យ"
           }
         },
         "kn": {
           "stringUnit": {
             "state": "translated",
-            "value": "Login Failed"
+            "value": "ಲಾಗಿನ್ ವಿಫಲವಾಗಿದೆ"
           }
         },
         "ko": {
           "stringUnit": {
             "state": "translated",
-            "value": "Login Failed"
+            "value": "로그인 실패"
           }
         },
         "la": {
           "stringUnit": {
             "state": "translated",
-            "value": "Login Failed"
+            "value": "Aditus defecit"
           }
         },
         "lb": {
           "stringUnit": {
             "state": "translated",
-            "value": "Login Failed"
+            "value": "Login fehlgeschloen"
           }
         },
         "lo": {
           "stringUnit": {
             "state": "translated",
-            "value": "Login Failed"
+            "value": "ການເຂົ້າສູ່ລະບົບບໍ່ສໍາເລັດ"
           }
         },
         "lt_LT": {
           "stringUnit": {
             "state": "translated",
-            "value": "Login Failed"
+            "value": "Prisijungimas nepavyko"
           }
         },
         "lv": {
@@ -1732,73 +1732,73 @@
         "mk": {
           "stringUnit": {
             "state": "translated",
-            "value": "Login Failed"
+            "value": "Најавувањето не успеа"
           }
         },
         "mn": {
           "stringUnit": {
             "state": "translated",
-            "value": "Login Failed"
+            "value": "Нэвтрэх амжилтгүй боллоо"
           }
         },
         "mr": {
           "stringUnit": {
             "state": "translated",
-            "value": "Login Failed"
+            "value": "लॉगिन अयशस्वी"
           }
         },
         "ms_MY": {
           "stringUnit": {
             "state": "translated",
-            "value": "Login Failed"
+            "value": "Log masuk gagal"
           }
         },
         "my": {
           "stringUnit": {
             "state": "translated",
-            "value": "Login Failed"
+            "value": "လော့ဂ်အင်မအောင်မြင်ပါ"
           }
         },
         "nb_NO": {
           "stringUnit": {
             "state": "translated",
-            "value": "Login Failed"
+            "value": "Pålogging mislyktes"
           }
         },
         "ne": {
           "stringUnit": {
             "state": "translated",
-            "value": "Login Failed"
+            "value": "लगइन असफल भयो"
           }
         },
         "nl": {
           "stringUnit": {
             "state": "translated",
-            "value": "Login Failed"
+            "value": "Inloggen mislukt"
           }
         },
         "nn_NO": {
           "stringUnit": {
             "state": "translated",
-            "value": "Login Failed"
+            "value": "Pålogging mislukka"
           }
         },
         "oc": {
           "stringUnit": {
             "state": "translated",
-            "value": "Login Failed"
+            "value": "Error de connexion"
           }
         },
         "pl": {
           "stringUnit": {
             "state": "translated",
-            "value": "Login Failed"
+            "value": "Logowanie nie powiodło się"
           }
         },
         "ps": {
           "stringUnit": {
             "state": "translated",
-            "value": "Login Failed"
+            "value": "ننوتل ناکام شول"
           }
         },
         "pt_BR": {
@@ -1810,55 +1810,55 @@
         "pt_PT": {
           "stringUnit": {
             "state": "translated",
-            "value": "Login Failed"
+            "value": "Falha no login"
           }
         },
         "ro": {
           "stringUnit": {
             "state": "translated",
-            "value": "Login Failed"
+            "value": "Autentificare eșuată"
           }
         },
         "ru": {
           "stringUnit": {
             "state": "translated",
-            "value": "Login Failed"
+            "value": "Ошибка входа"
           }
         },
         "sc": {
           "stringUnit": {
             "state": "translated",
-            "value": "Login Failed"
+            "value": "Su login est fallidu"
           }
         },
         "si": {
           "stringUnit": {
             "state": "translated",
-            "value": "Login Failed"
+            "value": "ප්‍රවේශය අසාර්ථකයි"
           }
         },
         "sk_SK": {
           "stringUnit": {
             "state": "translated",
-            "value": "Login Failed"
+            "value": "Prihlásenie zlyhalo"
           }
         },
         "sl": {
           "stringUnit": {
             "state": "translated",
-            "value": "Login Failed"
+            "value": "Prijava ni uspela"
           }
         },
         "sq": {
           "stringUnit": {
             "state": "translated",
-            "value": "Login Failed"
+            "value": "Identifikimi dështoi"
           }
         },
         "sr": {
           "stringUnit": {
             "state": "translated",
-            "value": "Login Failed"
+            "value": "Пријава неуспешна"
           }
         },
         "sv": {
@@ -1870,67 +1870,67 @@
         "sw": {
           "stringUnit": {
             "state": "translated",
-            "value": "Login Failed"
+            "value": "Kuingia hakufanikiwa"
           }
         },
         "ta": {
           "stringUnit": {
             "state": "translated",
-            "value": "Login Failed"
+            "value": "உள்நுழைதல் தோல்வியுற்றது"
           }
         },
         "th_TH": {
           "stringUnit": {
             "state": "translated",
-            "value": "Login Failed"
+            "value": "การเข้าสู่ระบบล้มเหลว"
           }
         },
         "tk": {
           "stringUnit": {
             "state": "translated",
-            "value": "Login Failed"
+            "value": "Giriş amala aşmady"
           }
         },
         "tr": {
           "stringUnit": {
             "state": "translated",
-            "value": "Login Failed"
+            "value": "Giriş başarısız"
           }
         },
         "ug": {
           "stringUnit": {
             "state": "translated",
-            "value": "Login Failed"
+            "value": "كىرىش مەغلۇپ بولدى"
           }
         },
         "uk": {
           "stringUnit": {
             "state": "translated",
-            "value": "Login Failed"
+            "value": "Помилка входу"
           }
         },
         "ur_PK": {
           "stringUnit": {
             "state": "translated",
-            "value": "Login Failed"
+            "value": "لاگ ان ناکام"
           }
         },
         "uz": {
           "stringUnit": {
             "state": "translated",
-            "value": "Login Failed"
+            "value": "Kirish muvaffaqiyatsiz"
           }
         },
         "vi": {
           "stringUnit": {
             "state": "translated",
-            "value": "Login Failed"
+            "value": "Đăng nhập thất bại"
           }
         },
         "zh_CN": {
           "stringUnit": {
             "state": "translated",
-            "value": "Login Failed"
+            "value": "登录失败"
           }
         },
         "zh_HK": {
@@ -1948,13 +1948,13 @@
         "zu_ZA": {
           "stringUnit": {
             "state": "translated",
-            "value": "Login Failed"
+            "value": "Ukungena okuqothile"
           }
         },
         "sr@latin": {
           "stringUnit": {
             "state": "translated",
-            "value": "Login Failed"
+            "value": "Prijava neuspešna"
           }
         }
       }
@@ -1965,67 +1965,67 @@
         "af": {
           "stringUnit": {
             "state": "translated",
-            "value": "OK"
+            "value": "Goed"
           }
         },
         "an": {
           "stringUnit": {
             "state": "translated",
-            "value": "OK"
+            "value": "D'acuerdo"
           }
         },
         "ar": {
           "stringUnit": {
             "state": "translated",
-            "value": "OK"
+            "value": "موافق"
           }
         },
         "ast": {
           "stringUnit": {
             "state": "translated",
-            "value": "OK"
+            "value": "Aceutar"
           }
         },
         "az": {
           "stringUnit": {
             "state": "translated",
-            "value": "OK"
+            "value": "Tamam"
           }
         },
         "be": {
           "stringUnit": {
             "state": "translated",
-            "value": "OK"
+            "value": "ОК"
           }
         },
         "bg_BG": {
           "stringUnit": {
             "state": "translated",
-            "value": "OK"
+            "value": "Добре"
           }
         },
         "bn_BD": {
           "stringUnit": {
             "state": "translated",
-            "value": "OK"
+            "value": "ঠিক আছে"
           }
         },
         "br": {
           "stringUnit": {
             "state": "translated",
-            "value": "OK"
+            "value": "Mat eo"
           }
         },
         "bs": {
           "stringUnit": {
             "state": "translated",
-            "value": "OK"
+            "value": "U redu"
           }
         },
         "ca": {
           "stringUnit": {
             "state": "translated",
-            "value": "OK"
+            "value": "D'acord"
           }
         },
         "cs_CZ": {
@@ -2037,7 +2037,7 @@
         "cy_GB": {
           "stringUnit": {
             "state": "translated",
-            "value": "OK"
+            "value": "Iawn"
           }
         },
         "da": {
@@ -2061,7 +2061,7 @@
         "el": {
           "stringUnit": {
             "state": "translated",
-            "value": "OK"
+            "value": "Εντάξει"
           }
         },
         "en": {
@@ -2079,115 +2079,115 @@
         "eo": {
           "stringUnit": {
             "state": "translated",
-            "value": "OK"
+            "value": "Bone"
           }
         },
         "es": {
           "stringUnit": {
             "state": "translated",
-            "value": "OK"
+            "value": "Aceptar"
           }
         },
         "es_419": {
           "stringUnit": {
             "state": "translated",
-            "value": "OK"
+            "value": "Aceptar"
           }
         },
         "es_AR": {
           "stringUnit": {
             "state": "translated",
-            "value": "OK"
+            "value": "Aceptar"
           }
         },
         "es_CL": {
           "stringUnit": {
             "state": "translated",
-            "value": "OK"
+            "value": "Aceptar"
           }
         },
         "es_CO": {
           "stringUnit": {
             "state": "translated",
-            "value": "OK"
+            "value": "Aceptar"
           }
         },
         "es_CR": {
           "stringUnit": {
             "state": "translated",
-            "value": "OK"
+            "value": "Aceptar"
           }
         },
         "es_DO": {
           "stringUnit": {
             "state": "translated",
-            "value": "OK"
+            "value": "Aceptar"
           }
         },
         "es_EC": {
           "stringUnit": {
             "state": "translated",
-            "value": "OK"
+            "value": "Aceptar"
           }
         },
         "es_GT": {
           "stringUnit": {
             "state": "translated",
-            "value": "OK"
+            "value": "Aceptar"
           }
         },
         "es_HN": {
           "stringUnit": {
             "state": "translated",
-            "value": "OK"
+            "value": "Aceptar"
           }
         },
         "es_MX": {
           "stringUnit": {
             "state": "translated",
-            "value": "OK"
+            "value": "Aceptar"
           }
         },
         "es_NI": {
           "stringUnit": {
             "state": "translated",
-            "value": "OK"
+            "value": "Aceptar"
           }
         },
         "es_PA": {
           "stringUnit": {
             "state": "translated",
-            "value": "OK"
+            "value": "Aceptar"
           }
         },
         "es_PE": {
           "stringUnit": {
             "state": "translated",
-            "value": "OK"
+            "value": "Aceptar"
           }
         },
         "es_PR": {
           "stringUnit": {
             "state": "translated",
-            "value": "OK"
+            "value": "Aceptar"
           }
         },
         "es_PY": {
           "stringUnit": {
             "state": "translated",
-            "value": "OK"
+            "value": "Aceptar"
           }
         },
         "es_SV": {
           "stringUnit": {
             "state": "translated",
-            "value": "OK"
+            "value": "Aceptar"
           }
         },
         "es_UY": {
           "stringUnit": {
             "state": "translated",
-            "value": "OK"
+            "value": "Aceptar"
           }
         },
         "et_EE": {
@@ -2199,13 +2199,13 @@
         "eu": {
           "stringUnit": {
             "state": "translated",
-            "value": "OK"
+            "value": "Ados"
           }
         },
         "fa": {
           "stringUnit": {
             "state": "translated",
-            "value": "OK"
+            "value": "تأیید"
           }
         },
         "fi_FI": {
@@ -2217,7 +2217,7 @@
         "fo": {
           "stringUnit": {
             "state": "translated",
-            "value": "OK"
+            "value": "Í lagi"
           }
         },
         "fr": {
@@ -2229,55 +2229,55 @@
         "ga": {
           "stringUnit": {
             "state": "translated",
-            "value": "OK"
+            "value": "Ceart go leor"
           }
         },
         "gd": {
           "stringUnit": {
             "state": "translated",
-            "value": "OK"
+            "value": "Ceart gu leòr"
           }
         },
         "gl": {
           "stringUnit": {
             "state": "translated",
-            "value": "OK"
+            "value": "Aceptar"
           }
         },
         "he": {
           "stringUnit": {
             "state": "translated",
-            "value": "OK"
+            "value": "אישור"
           }
         },
         "hi_IN": {
           "stringUnit": {
             "state": "translated",
-            "value": "OK"
+            "value": "ठीक है"
           }
         },
         "hr": {
           "stringUnit": {
             "state": "translated",
-            "value": "OK"
+            "value": "U redu"
           }
         },
         "hsb": {
           "stringUnit": {
             "state": "translated",
-            "value": "OK"
+            "value": "W porjadku"
           }
         },
         "hu_HU": {
           "stringUnit": {
             "state": "translated",
-            "value": "OK"
+            "value": "Rendben"
           }
         },
         "hy": {
           "stringUnit": {
             "state": "translated",
-            "value": "OK"
+            "value": "Համաձայն"
           }
         },
         "ia": {
@@ -2295,13 +2295,13 @@
         "ig": {
           "stringUnit": {
             "state": "translated",
-            "value": "OK"
+            "value": "Ọ dị mma"
           }
         },
         "is": {
           "stringUnit": {
             "state": "translated",
-            "value": "OK"
+            "value": "Í lagi"
           }
         },
         "it": {
@@ -2319,43 +2319,43 @@
         "ka": {
           "stringUnit": {
             "state": "translated",
-            "value": "OK"
+            "value": "კარგი"
           }
         },
         "ka_GE": {
           "stringUnit": {
             "state": "translated",
-            "value": "OK"
+            "value": "კარგი"
           }
         },
         "kab": {
           "stringUnit": {
             "state": "translated",
-            "value": "OK"
+            "value": "IH"
           }
         },
         "km": {
           "stringUnit": {
             "state": "translated",
-            "value": "OK"
+            "value": "យល់ព្រម"
           }
         },
         "kn": {
           "stringUnit": {
             "state": "translated",
-            "value": "OK"
+            "value": "ಸರಿ"
           }
         },
         "ko": {
           "stringUnit": {
             "state": "translated",
-            "value": "OK"
+            "value": "확인"
           }
         },
         "la": {
           "stringUnit": {
             "state": "translated",
-            "value": "OK"
+            "value": "Recte"
           }
         },
         "lb": {
@@ -2367,13 +2367,13 @@
         "lo": {
           "stringUnit": {
             "state": "translated",
-            "value": "OK"
+            "value": "ຕົກລົງ"
           }
         },
         "lt_LT": {
           "stringUnit": {
             "state": "translated",
-            "value": "OK"
+            "value": "Gerai"
           }
         },
         "lv": {
@@ -2385,19 +2385,19 @@
         "mk": {
           "stringUnit": {
             "state": "translated",
-            "value": "OK"
+            "value": "Во ред"
           }
         },
         "mn": {
           "stringUnit": {
             "state": "translated",
-            "value": "OK"
+            "value": "За"
           }
         },
         "mr": {
           "stringUnit": {
             "state": "translated",
-            "value": "OK"
+            "value": "ठीक आहे"
           }
         },
         "ms_MY": {
@@ -2409,7 +2409,7 @@
         "my": {
           "stringUnit": {
             "state": "translated",
-            "value": "OK"
+            "value": "အိုကေ"
           }
         },
         "nb_NO": {
@@ -2421,7 +2421,7 @@
         "ne": {
           "stringUnit": {
             "state": "translated",
-            "value": "OK"
+            "value": "ठीक छ"
           }
         },
         "nl": {
@@ -2439,7 +2439,7 @@
         "oc": {
           "stringUnit": {
             "state": "translated",
-            "value": "OK"
+            "value": "D'acòrdi"
           }
         },
         "pl": {
@@ -2451,7 +2451,7 @@
         "ps": {
           "stringUnit": {
             "state": "translated",
-            "value": "OK"
+            "value": "سمه ده"
           }
         },
         "pt_BR": {
@@ -2475,19 +2475,19 @@
         "ru": {
           "stringUnit": {
             "state": "translated",
-            "value": "OK"
+            "value": "ОК"
           }
         },
         "sc": {
           "stringUnit": {
             "state": "translated",
-            "value": "OK"
+            "value": "Andat bene"
           }
         },
         "si": {
           "stringUnit": {
             "state": "translated",
-            "value": "OK"
+            "value": "හරි"
           }
         },
         "sk_SK": {
@@ -2499,19 +2499,19 @@
         "sl": {
           "stringUnit": {
             "state": "translated",
-            "value": "OK"
+            "value": "V redu"
           }
         },
         "sq": {
           "stringUnit": {
             "state": "translated",
-            "value": "OK"
+            "value": "Në rregull"
           }
         },
         "sr": {
           "stringUnit": {
             "state": "translated",
-            "value": "OK"
+            "value": "У реду"
           }
         },
         "sv": {
@@ -2523,49 +2523,49 @@
         "sw": {
           "stringUnit": {
             "state": "translated",
-            "value": "OK"
+            "value": "Sawa"
           }
         },
         "ta": {
           "stringUnit": {
             "state": "translated",
-            "value": "OK"
+            "value": "சரி"
           }
         },
         "th_TH": {
           "stringUnit": {
             "state": "translated",
-            "value": "OK"
+            "value": "ตกลง"
           }
         },
         "tk": {
           "stringUnit": {
             "state": "translated",
-            "value": "OK"
+            "value": "Bolýar"
           }
         },
         "tr": {
           "stringUnit": {
             "state": "translated",
-            "value": "OK"
+            "value": "Tamam"
           }
         },
         "ug": {
           "stringUnit": {
             "state": "translated",
-            "value": "OK"
+            "value": "ماقۇل"
           }
         },
         "uk": {
           "stringUnit": {
             "state": "translated",
-            "value": "OK"
+            "value": "Гаразд"
           }
         },
         "ur_PK": {
           "stringUnit": {
             "state": "translated",
-            "value": "OK"
+            "value": "ٹھیک ہے"
           }
         },
         "uz": {
@@ -2583,13 +2583,13 @@
         "zh_CN": {
           "stringUnit": {
             "state": "translated",
-            "value": "OK"
+            "value": "确定"
           }
         },
         "zh_HK": {
           "stringUnit": {
             "state": "translated",
-            "value": "OK"
+            "value": "確定"
           }
         },
         "zh_TW": {
@@ -2601,13 +2601,13 @@
         "zu_ZA": {
           "stringUnit": {
             "state": "translated",
-            "value": "OK"
+            "value": "Kulungile"
           }
         },
         "sr@latin": {
           "stringUnit": {
             "state": "translated",
-            "value": "OK"
+            "value": "U redu"
           }
         }
       }
@@ -2618,85 +2618,85 @@
         "af": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scan QR Code"
+            "value": "Skandeer QR-kode"
           }
         },
         "an": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scan QR Code"
+            "value": "Escaneyar codigo QR"
           }
         },
         "ar": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scan QR Code"
+            "value": "مسح رمز الاستجابة السريعة"
           }
         },
         "ast": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scan QR Code"
+            "value": "Escaniar códigu QR"
           }
         },
         "az": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scan QR Code"
+            "value": "QR kodu skan edin"
           }
         },
         "be": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scan QR Code"
+            "value": "Сканаваць QR-код"
           }
         },
         "bg_BG": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scan QR Code"
+            "value": "Сканиране на QR код"
           }
         },
         "bn_BD": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scan QR Code"
+            "value": "QR কোড স্ক্যান করুন"
           }
         },
         "br": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scan QR Code"
+            "value": "Skaniñ ar c'hod QR"
           }
         },
         "bs": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scan QR Code"
+            "value": "Skeniraj QR kod"
           }
         },
         "ca": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scan QR Code"
+            "value": "Escaneja el codi QR"
           }
         },
         "cs_CZ": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scan QR Code"
+            "value": "Naskenovat QR kód"
           }
         },
         "cy_GB": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scan QR Code"
+            "value": "Sganio cod QR"
           }
         },
         "da": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scan QR Code"
+            "value": "Scan QR-kode"
           }
         },
         "de": {
@@ -2714,7 +2714,7 @@
         "el": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scan QR Code"
+            "value": "Σάρωση κώδικα QR"
           }
         },
         "en": {
@@ -2732,7 +2732,7 @@
         "eo": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scan QR Code"
+            "value": "Skani QR-kodon"
           }
         },
         "es": {
@@ -2744,103 +2744,103 @@
         "es_419": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scan QR Code"
+            "value": "Escanear código QR"
           }
         },
         "es_AR": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scan QR Code"
+            "value": "Escanear código QR"
           }
         },
         "es_CL": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scan QR Code"
+            "value": "Escanear código QR"
           }
         },
         "es_CO": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scan QR Code"
+            "value": "Escanear código QR"
           }
         },
         "es_CR": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scan QR Code"
+            "value": "Escanear código QR"
           }
         },
         "es_DO": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scan QR Code"
+            "value": "Escanear código QR"
           }
         },
         "es_EC": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scan QR Code"
+            "value": "Escanear código QR"
           }
         },
         "es_GT": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scan QR Code"
+            "value": "Escanear código QR"
           }
         },
         "es_HN": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scan QR Code"
+            "value": "Escanear código QR"
           }
         },
         "es_MX": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scan QR Code"
+            "value": "Escanear código QR"
           }
         },
         "es_NI": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scan QR Code"
+            "value": "Escanear código QR"
           }
         },
         "es_PA": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scan QR Code"
+            "value": "Escanear código QR"
           }
         },
         "es_PE": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scan QR Code"
+            "value": "Escanear código QR"
           }
         },
         "es_PR": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scan QR Code"
+            "value": "Escanear código QR"
           }
         },
         "es_PY": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scan QR Code"
+            "value": "Escanear código QR"
           }
         },
         "es_SV": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scan QR Code"
+            "value": "Escanear código QR"
           }
         },
         "es_UY": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scan QR Code"
+            "value": "Escanear código QR"
           }
         },
         "et_EE": {
@@ -2852,13 +2852,13 @@
         "eu": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scan QR Code"
+            "value": "Eskaneatu QR kodea"
           }
         },
         "fa": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scan QR Code"
+            "value": "اسکن کد QR"
           }
         },
         "fi_FI": {
@@ -2870,163 +2870,163 @@
         "fo": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scan QR Code"
+            "value": "Skanna QR kotu"
           }
         },
         "fr": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scan QR Code"
+            "value": "Scanner le code QR"
           }
         },
         "ga": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scan QR Code"
+            "value": "Scannaigh cód QR"
           }
         },
         "gd": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scan QR Code"
+            "value": "Sgan còd QR"
           }
         },
         "gl": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scan QR Code"
+            "value": "Escanear código QR"
           }
         },
         "he": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scan QR Code"
+            "value": "סרוק קוד QR"
           }
         },
         "hi_IN": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scan QR Code"
+            "value": "QR कोड स्कैन करें"
           }
         },
         "hr": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scan QR Code"
+            "value": "Skeniraj QR kod"
           }
         },
         "hsb": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scan QR Code"
+            "value": "QR-kod skenować"
           }
         },
         "hu_HU": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scan QR Code"
+            "value": "QR kód beolvasása"
           }
         },
         "hy": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scan QR Code"
+            "value": "Սկանավորել QR կոդը"
           }
         },
         "ia": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scan QR Code"
+            "value": "Scannar le codice QR"
           }
         },
         "id": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scan QR Code"
+            "value": "Pindai kode QR"
           }
         },
         "ig": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scan QR Code"
+            "value": "Nyochaa koodu QR"
           }
         },
         "is": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scan QR Code"
+            "value": "Skanna QR kóða"
           }
         },
         "it": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scan QR Code"
+            "value": "Scansiona codice QR"
           }
         },
         "ja_JP": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scan QR Code"
+            "value": "QRコードをスキャン"
           }
         },
         "ka": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scan QR Code"
+            "value": "QR კოდის სკანირება"
           }
         },
         "ka_GE": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scan QR Code"
+            "value": "QR კოდის სკანირება"
           }
         },
         "kab": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scan QR Code"
+            "value": "Sken tangalt QR"
           }
         },
         "km": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scan QR Code"
+            "value": "ស្កេនកូដ QR"
           }
         },
         "kn": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scan QR Code"
+            "value": "QR ಕೋಡ್ ಸ್ಕ್ಯಾನ್ ಮಾಡಿ"
           }
         },
         "ko": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scan QR Code"
+            "value": "QR 코드 스캔"
           }
         },
         "la": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scan QR Code"
+            "value": "Percurrere codicem QR"
           }
         },
         "lb": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scan QR Code"
+            "value": "QR-Code scannen"
           }
         },
         "lo": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scan QR Code"
+            "value": "ສະແກນລະຫັດ QR"
           }
         },
         "lt_LT": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scan QR Code"
+            "value": "Nuskaityti QR kodą"
           }
         },
         "lv": {
@@ -3038,73 +3038,73 @@
         "mk": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scan QR Code"
+            "value": "Скенирај QR код"
           }
         },
         "mn": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scan QR Code"
+            "value": "QR код уншина уу"
           }
         },
         "mr": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scan QR Code"
+            "value": "QR कोड स्कॅन करा"
           }
         },
         "ms_MY": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scan QR Code"
+            "value": "Imbas kod QR"
           }
         },
         "my": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scan QR Code"
+            "value": "QR ကုဒ်စကင်ဖတ်ပါ"
           }
         },
         "nb_NO": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scan QR Code"
+            "value": "Skann QR-kode"
           }
         },
         "ne": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scan QR Code"
+            "value": "QR कोड स्क्यान गर्नुहोस्"
           }
         },
         "nl": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scan QR Code"
+            "value": "QR-code scannen"
           }
         },
         "nn_NO": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scan QR Code"
+            "value": "Skann QR-kode"
           }
         },
         "oc": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scan QR Code"
+            "value": "Numerizar lo còdi QR"
           }
         },
         "pl": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scan QR Code"
+            "value": "Zeskanuj kod QR"
           }
         },
         "ps": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scan QR Code"
+            "value": "د QR کوډ سکین کړئ"
           }
         },
         "pt_BR": {
@@ -3116,55 +3116,55 @@
         "pt_PT": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scan QR Code"
+            "value": "Digitalizar código QR"
           }
         },
         "ro": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scan QR Code"
+            "value": "Scanează codul QR"
           }
         },
         "ru": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scan QR Code"
+            "value": "Сканировать QR-код"
           }
         },
         "sc": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scan QR Code"
+            "value": "Iscansiona su còdighe QR"
           }
         },
         "si": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scan QR Code"
+            "value": "QR කේතය ස්කෑන් කරන්න"
           }
         },
         "sk_SK": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scan QR Code"
+            "value": "Naskenovať QR kód"
           }
         },
         "sl": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scan QR Code"
+            "value": "Skeniraj QR kodo"
           }
         },
         "sq": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scan QR Code"
+            "value": "Skanoni kodin QR"
           }
         },
         "sr": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scan QR Code"
+            "value": "Скенирај QR код"
           }
         },
         "sv": {
@@ -3176,67 +3176,67 @@
         "sw": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scan QR Code"
+            "value": "Changanua msimbo wa QR"
           }
         },
         "ta": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scan QR Code"
+            "value": "QR குறியீட்டை ஸ்கேன் செய்யுங்கள்"
           }
         },
         "th_TH": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scan QR Code"
+            "value": "สแกนรหัส QR"
           }
         },
         "tk": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scan QR Code"
+            "value": "QR kodyny skanirläň"
           }
         },
         "tr": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scan QR Code"
+            "value": "QR kodunu tara"
           }
         },
         "ug": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scan QR Code"
+            "value": "QR كودىنى سكاننەر قىلىش"
           }
         },
         "uk": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scan QR Code"
+            "value": "Сканувати QR-код"
           }
         },
         "ur_PK": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scan QR Code"
+            "value": "QR کوڈ اسکین کریں"
           }
         },
         "uz": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scan QR Code"
+            "value": "QR kodini skanerlash"
           }
         },
         "vi": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scan QR Code"
+            "value": "Quét mã QR"
           }
         },
         "zh_CN": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scan QR Code"
+            "value": "扫描二维码"
           }
         },
         "zh_HK": {
@@ -3254,13 +3254,13 @@
         "zu_ZA": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scan QR Code"
+            "value": "Skena ikhodi ye-QR"
           }
         },
         "sr@latin": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scan QR Code"
+            "value": "Skeniraj QR kod"
           }
         }
       }
@@ -3271,85 +3271,85 @@
         "af": {
           "stringUnit": {
             "state": "translated",
-            "value": "Server Address"
+            "value": "Bediener adres"
           }
         },
         "an": {
           "stringUnit": {
             "state": "translated",
-            "value": "Server Address"
+            "value": "Adreza d'o servidor"
           }
         },
         "ar": {
           "stringUnit": {
             "state": "translated",
-            "value": "Server Address"
+            "value": "عنوان الخادم"
           }
         },
         "ast": {
           "stringUnit": {
             "state": "translated",
-            "value": "Server Address"
+            "value": "Direición del sirvidor"
           }
         },
         "az": {
           "stringUnit": {
             "state": "translated",
-            "value": "Server Address"
+            "value": "Server ünvanı"
           }
         },
         "be": {
           "stringUnit": {
             "state": "translated",
-            "value": "Server Address"
+            "value": "Адрас сервера"
           }
         },
         "bg_BG": {
           "stringUnit": {
             "state": "translated",
-            "value": "Server Address"
+            "value": "Адрес на сървъра"
           }
         },
         "bn_BD": {
           "stringUnit": {
             "state": "translated",
-            "value": "Server Address"
+            "value": "সার্ভার ঠিকানা"
           }
         },
         "br": {
           "stringUnit": {
             "state": "translated",
-            "value": "Server Address"
+            "value": "Chomlec'h ar servijer"
           }
         },
         "bs": {
           "stringUnit": {
             "state": "translated",
-            "value": "Server Address"
+            "value": "Adresa servera"
           }
         },
         "ca": {
           "stringUnit": {
             "state": "translated",
-            "value": "Server Address"
+            "value": "Adreça del servidor"
           }
         },
         "cs_CZ": {
           "stringUnit": {
             "state": "translated",
-            "value": "Server Address"
+            "value": "Adresa serveru"
           }
         },
         "cy_GB": {
           "stringUnit": {
             "state": "translated",
-            "value": "Server Address"
+            "value": "Cyfeiriad y gweinydd"
           }
         },
         "da": {
           "stringUnit": {
             "state": "translated",
-            "value": "Server Address"
+            "value": "Serveradresse"
           }
         },
         "de": {
@@ -3367,7 +3367,7 @@
         "el": {
           "stringUnit": {
             "state": "translated",
-            "value": "Server Address"
+            "value": "Διεύθυνση διακομιστή"
           }
         },
         "en": {
@@ -3385,7 +3385,7 @@
         "eo": {
           "stringUnit": {
             "state": "translated",
-            "value": "Server Address"
+            "value": "Servila adreso"
           }
         },
         "es": {
@@ -3397,103 +3397,103 @@
         "es_419": {
           "stringUnit": {
             "state": "translated",
-            "value": "Server Address"
+            "value": "Dirección del servidor"
           }
         },
         "es_AR": {
           "stringUnit": {
             "state": "translated",
-            "value": "Server Address"
+            "value": "Dirección del servidor"
           }
         },
         "es_CL": {
           "stringUnit": {
             "state": "translated",
-            "value": "Server Address"
+            "value": "Dirección del servidor"
           }
         },
         "es_CO": {
           "stringUnit": {
             "state": "translated",
-            "value": "Server Address"
+            "value": "Dirección del servidor"
           }
         },
         "es_CR": {
           "stringUnit": {
             "state": "translated",
-            "value": "Server Address"
+            "value": "Dirección del servidor"
           }
         },
         "es_DO": {
           "stringUnit": {
             "state": "translated",
-            "value": "Server Address"
+            "value": "Dirección del servidor"
           }
         },
         "es_EC": {
           "stringUnit": {
             "state": "translated",
-            "value": "Server Address"
+            "value": "Dirección del servidor"
           }
         },
         "es_GT": {
           "stringUnit": {
             "state": "translated",
-            "value": "Server Address"
+            "value": "Dirección del servidor"
           }
         },
         "es_HN": {
           "stringUnit": {
             "state": "translated",
-            "value": "Server Address"
+            "value": "Dirección del servidor"
           }
         },
         "es_MX": {
           "stringUnit": {
             "state": "translated",
-            "value": "Server Address"
+            "value": "Dirección del servidor"
           }
         },
         "es_NI": {
           "stringUnit": {
             "state": "translated",
-            "value": "Server Address"
+            "value": "Dirección del servidor"
           }
         },
         "es_PA": {
           "stringUnit": {
             "state": "translated",
-            "value": "Server Address"
+            "value": "Dirección del servidor"
           }
         },
         "es_PE": {
           "stringUnit": {
             "state": "translated",
-            "value": "Server Address"
+            "value": "Dirección del servidor"
           }
         },
         "es_PR": {
           "stringUnit": {
             "state": "translated",
-            "value": "Server Address"
+            "value": "Dirección del servidor"
           }
         },
         "es_PY": {
           "stringUnit": {
             "state": "translated",
-            "value": "Server Address"
+            "value": "Dirección del servidor"
           }
         },
         "es_SV": {
           "stringUnit": {
             "state": "translated",
-            "value": "Server Address"
+            "value": "Dirección del servidor"
           }
         },
         "es_UY": {
           "stringUnit": {
             "state": "translated",
-            "value": "Server Address"
+            "value": "Dirección del servidor"
           }
         },
         "et_EE": {
@@ -3505,13 +3505,13 @@
         "eu": {
           "stringUnit": {
             "state": "translated",
-            "value": "Server Address"
+            "value": "Zerbitzariaren helbidea"
           }
         },
         "fa": {
           "stringUnit": {
             "state": "translated",
-            "value": "Server Address"
+            "value": "آدرس سرور"
           }
         },
         "fi_FI": {
@@ -3523,163 +3523,163 @@
         "fo": {
           "stringUnit": {
             "state": "translated",
-            "value": "Server Address"
+            "value": "Ambætaraadressa"
           }
         },
         "fr": {
           "stringUnit": {
             "state": "translated",
-            "value": "Server Address"
+            "value": "Adresse du serveur"
           }
         },
         "ga": {
           "stringUnit": {
             "state": "translated",
-            "value": "Server Address"
+            "value": "Seoladh an freastalaí"
           }
         },
         "gd": {
           "stringUnit": {
             "state": "translated",
-            "value": "Server Address"
+            "value": "Seòladh an fhrithealaiche"
           }
         },
         "gl": {
           "stringUnit": {
             "state": "translated",
-            "value": "Server Address"
+            "value": "Enderezo do servidor"
           }
         },
         "he": {
           "stringUnit": {
             "state": "translated",
-            "value": "Server Address"
+            "value": "כתובת שרת"
           }
         },
         "hi_IN": {
           "stringUnit": {
             "state": "translated",
-            "value": "Server Address"
+            "value": "सर्वर पता"
           }
         },
         "hr": {
           "stringUnit": {
             "state": "translated",
-            "value": "Server Address"
+            "value": "Adresa poslužitelja"
           }
         },
         "hsb": {
           "stringUnit": {
             "state": "translated",
-            "value": "Server Address"
+            "value": "Adresa serwera"
           }
         },
         "hu_HU": {
           "stringUnit": {
             "state": "translated",
-            "value": "Server Address"
+            "value": "Szerver címe"
           }
         },
         "hy": {
           "stringUnit": {
             "state": "translated",
-            "value": "Server Address"
+            "value": "Սերվերի հասցեն"
           }
         },
         "ia": {
           "stringUnit": {
             "state": "translated",
-            "value": "Server Address"
+            "value": "Adresse del servitor"
           }
         },
         "id": {
           "stringUnit": {
             "state": "translated",
-            "value": "Server Address"
+            "value": "Alamat server"
           }
         },
         "ig": {
           "stringUnit": {
             "state": "translated",
-            "value": "Server Address"
+            "value": "Adreesị nke server"
           }
         },
         "is": {
           "stringUnit": {
             "state": "translated",
-            "value": "Server Address"
+            "value": "Vistfang þjóns"
           }
         },
         "it": {
           "stringUnit": {
             "state": "translated",
-            "value": "Server Address"
+            "value": "Indirizzo del server"
           }
         },
         "ja_JP": {
           "stringUnit": {
             "state": "translated",
-            "value": "Server Address"
+            "value": "サーバーアドレス"
           }
         },
         "ka": {
           "stringUnit": {
             "state": "translated",
-            "value": "Server Address"
+            "value": "სერვერის მისამართი"
           }
         },
         "ka_GE": {
           "stringUnit": {
             "state": "translated",
-            "value": "Server Address"
+            "value": "სერვერის მისამართი"
           }
         },
         "kab": {
           "stringUnit": {
             "state": "translated",
-            "value": "Server Address"
+            "value": "Tansa n uqeddac"
           }
         },
         "km": {
           "stringUnit": {
             "state": "translated",
-            "value": "Server Address"
+            "value": "អាសយដ្ឋានម៉ាស៊ីនមេ"
           }
         },
         "kn": {
           "stringUnit": {
             "state": "translated",
-            "value": "Server Address"
+            "value": "ಸರ್ವರ್ ವಿಳಾಸ"
           }
         },
         "ko": {
           "stringUnit": {
             "state": "translated",
-            "value": "Server Address"
+            "value": "서버 주소"
           }
         },
         "la": {
           "stringUnit": {
             "state": "translated",
-            "value": "Server Address"
+            "value": "Inscriptio ministrantis"
           }
         },
         "lb": {
           "stringUnit": {
             "state": "translated",
-            "value": "Server Address"
+            "value": "Serveradress"
           }
         },
         "lo": {
           "stringUnit": {
             "state": "translated",
-            "value": "Server Address"
+            "value": "ທີ່ຢູ່ເຊີບເວີ"
           }
         },
         "lt_LT": {
           "stringUnit": {
             "state": "translated",
-            "value": "Server Address"
+            "value": "Serverio adresas"
           }
         },
         "lv": {
@@ -3691,73 +3691,73 @@
         "mk": {
           "stringUnit": {
             "state": "translated",
-            "value": "Server Address"
+            "value": "Адреса на серверот"
           }
         },
         "mn": {
           "stringUnit": {
             "state": "translated",
-            "value": "Server Address"
+            "value": "Серверийн хаяг"
           }
         },
         "mr": {
           "stringUnit": {
             "state": "translated",
-            "value": "Server Address"
+            "value": "सर्व्हर पत्ता"
           }
         },
         "ms_MY": {
           "stringUnit": {
             "state": "translated",
-            "value": "Server Address"
+            "value": "Alamat pelayan"
           }
         },
         "my": {
           "stringUnit": {
             "state": "translated",
-            "value": "Server Address"
+            "value": "ဆာဗာလိပ်စာ"
           }
         },
         "nb_NO": {
           "stringUnit": {
             "state": "translated",
-            "value": "Server Address"
+            "value": "Serveradresse"
           }
         },
         "ne": {
           "stringUnit": {
             "state": "translated",
-            "value": "Server Address"
+            "value": "सर्भर ठेगाना"
           }
         },
         "nl": {
           "stringUnit": {
             "state": "translated",
-            "value": "Server Address"
+            "value": "Serveradres"
           }
         },
         "nn_NO": {
           "stringUnit": {
             "state": "translated",
-            "value": "Server Address"
+            "value": "Serveradresse"
           }
         },
         "oc": {
           "stringUnit": {
             "state": "translated",
-            "value": "Server Address"
+            "value": "Adreça del servidor"
           }
         },
         "pl": {
           "stringUnit": {
             "state": "translated",
-            "value": "Server Address"
+            "value": "Adres serwera"
           }
         },
         "ps": {
           "stringUnit": {
             "state": "translated",
-            "value": "Server Address"
+            "value": "د سرور پته"
           }
         },
         "pt_BR": {
@@ -3769,55 +3769,55 @@
         "pt_PT": {
           "stringUnit": {
             "state": "translated",
-            "value": "Server Address"
+            "value": "Endereço do servidor"
           }
         },
         "ro": {
           "stringUnit": {
             "state": "translated",
-            "value": "Server Address"
+            "value": "Adresa serverului"
           }
         },
         "ru": {
           "stringUnit": {
             "state": "translated",
-            "value": "Server Address"
+            "value": "Адрес сервера"
           }
         },
         "sc": {
           "stringUnit": {
             "state": "translated",
-            "value": "Server Address"
+            "value": "Indiritzu de su serbidore"
           }
         },
         "si": {
           "stringUnit": {
             "state": "translated",
-            "value": "Server Address"
+            "value": "සේවාදායක ලිපිනය"
           }
         },
         "sk_SK": {
           "stringUnit": {
             "state": "translated",
-            "value": "Server Address"
+            "value": "Adresa servera"
           }
         },
         "sl": {
           "stringUnit": {
             "state": "translated",
-            "value": "Server Address"
+            "value": "Naslov strežnika"
           }
         },
         "sq": {
           "stringUnit": {
             "state": "translated",
-            "value": "Server Address"
+            "value": "Adresa e serverit"
           }
         },
         "sr": {
           "stringUnit": {
             "state": "translated",
-            "value": "Server Address"
+            "value": "Адреса сервера"
           }
         },
         "sv": {
@@ -3829,67 +3829,67 @@
         "sw": {
           "stringUnit": {
             "state": "translated",
-            "value": "Server Address"
+            "value": "Anwani ya seva"
           }
         },
         "ta": {
           "stringUnit": {
             "state": "translated",
-            "value": "Server Address"
+            "value": "சர்வர் முகவரி"
           }
         },
         "th_TH": {
           "stringUnit": {
             "state": "translated",
-            "value": "Server Address"
+            "value": "ที่อยู่เซิร์ฟเวอร์"
           }
         },
         "tk": {
           "stringUnit": {
             "state": "translated",
-            "value": "Server Address"
+            "value": "Serwer salgysy"
           }
         },
         "tr": {
           "stringUnit": {
             "state": "translated",
-            "value": "Server Address"
+            "value": "Sunucu adresi"
           }
         },
         "ug": {
           "stringUnit": {
             "state": "translated",
-            "value": "Server Address"
+            "value": "مۇلازىمېتىر ئادرېسى"
           }
         },
         "uk": {
           "stringUnit": {
             "state": "translated",
-            "value": "Server Address"
+            "value": "Адреса сервера"
           }
         },
         "ur_PK": {
           "stringUnit": {
             "state": "translated",
-            "value": "Server Address"
+            "value": "سرور ایڈریس"
           }
         },
         "uz": {
           "stringUnit": {
             "state": "translated",
-            "value": "Server Address"
+            "value": "Server manzili"
           }
         },
         "vi": {
           "stringUnit": {
             "state": "translated",
-            "value": "Server Address"
+            "value": "Địa chỉ máy chủ"
           }
         },
         "zh_CN": {
           "stringUnit": {
             "state": "translated",
-            "value": "Server Address"
+            "value": "服务器地址"
           }
         },
         "zh_HK": {
@@ -3907,13 +3907,13 @@
         "zu_ZA": {
           "stringUnit": {
             "state": "translated",
-            "value": "Server Address"
+            "value": "Ikheli leseva"
           }
         },
         "sr@latin": {
           "stringUnit": {
             "state": "translated",
-            "value": "Server Address"
+            "value": "Adresa servera"
           }
         }
       }
@@ -3924,85 +3924,85 @@
         "af": {
           "stringUnit": {
             "state": "translated",
-            "value": "The address of your Nextcloud web interface when you open it in your browser."
+            "value": "Die adres van jou Nextcloud web koppelvlak wanneer jy dit in jou webblaaier oopmaak."
           }
         },
         "an": {
           "stringUnit": {
             "state": "translated",
-            "value": "The address of your Nextcloud web interface when you open it in your browser."
+            "value": "L'adreza d'a interfaz web de Nextcloud quan l'ubres en o tuyo navegador."
           }
         },
         "ar": {
           "stringUnit": {
             "state": "translated",
-            "value": "The address of your Nextcloud web interface when you open it in your browser."
+            "value": "عنوان واجهة Nextcloud الويب عندما تفتحها في متصفحك."
           }
         },
         "ast": {
           "stringUnit": {
             "state": "translated",
-            "value": "The address of your Nextcloud web interface when you open it in your browser."
+            "value": "La direición de la interfaz web de Nextcloud cuando l'abres nel to navegador."
           }
         },
         "az": {
           "stringUnit": {
             "state": "translated",
-            "value": "The address of your Nextcloud web interface when you open it in your browser."
+            "value": "Brauzerinizdə açdığınız zaman Nextcloud veb interfeysinizin ünvanı."
           }
         },
         "be": {
           "stringUnit": {
             "state": "translated",
-            "value": "The address of your Nextcloud web interface when you open it in your browser."
+            "value": "Адрас вашага веб-інтэрфейсу Nextcloud, калі вы адкрываеце яго ў браўзеры."
           }
         },
         "bg_BG": {
           "stringUnit": {
             "state": "translated",
-            "value": "The address of your Nextcloud web interface when you open it in your browser."
+            "value": "Адресът на вашия Nextcloud уеб интерфейс, когато го отваряте в браузъра си."
           }
         },
         "bn_BD": {
           "stringUnit": {
             "state": "translated",
-            "value": "The address of your Nextcloud web interface when you open it in your browser."
+            "value": "আপনার ব্রাউজারে খোলার সময় আপনার Nextcloud ওয়েব ইন্টারফেসের ঠিকানা।"
           }
         },
         "br": {
           "stringUnit": {
             "state": "translated",
-            "value": "The address of your Nextcloud web interface when you open it in your browser."
+            "value": "Chomlec'h ho etrefas web Nextcloud pa tigorit anezhañ en ho merdeer."
           }
         },
         "bs": {
           "stringUnit": {
             "state": "translated",
-            "value": "The address of your Nextcloud web interface when you open it in your browser."
+            "value": "Adresa vašeg Nextcloud web sučelja kada ga otvorite u svom pregledniku."
           }
         },
         "ca": {
           "stringUnit": {
             "state": "translated",
-            "value": "The address of your Nextcloud web interface when you open it in your browser."
+            "value": "L'adreça de la vostra interfície web de Nextcloud quan l'obriu al vostre navegador."
           }
         },
         "cs_CZ": {
           "stringUnit": {
             "state": "translated",
-            "value": "The address of your Nextcloud web interface when you open it in your browser."
+            "value": "Adresa vašeho webového rozhraní Nextcloud, když jej otevřete ve svém prohlížeči."
           }
         },
         "cy_GB": {
           "stringUnit": {
             "state": "translated",
-            "value": "The address of your Nextcloud web interface when you open it in your browser."
+            "value": "Cyfeiriad eich rhyngwyneb gwe Nextcloud pan fyddwch yn ei agor yn eich porwr."
           }
         },
         "da": {
           "stringUnit": {
             "state": "translated",
-            "value": "The address of your Nextcloud web interface when you open it in your browser."
+            "value": "Adressen på din Nextcloud webgrænseflade, når du åbner den i din browser."
           }
         },
         "de": {
@@ -4020,7 +4020,7 @@
         "el": {
           "stringUnit": {
             "state": "translated",
-            "value": "The address of your Nextcloud web interface when you open it in your browser."
+            "value": "Η διεύθυνση της διαδικτυακής διεπαφής Nextcloud όταν την ανοίγετε στον περιηγητή σας."
           }
         },
         "en": {
@@ -4038,7 +4038,7 @@
         "eo": {
           "stringUnit": {
             "state": "translated",
-            "value": "The address of your Nextcloud web interface when you open it in your browser."
+            "value": "La adreso de via Nextcloud retinterago kiam vi malfermas ĝin en via retumilo."
           }
         },
         "es": {
@@ -4050,103 +4050,103 @@
         "es_419": {
           "stringUnit": {
             "state": "translated",
-            "value": "The address of your Nextcloud web interface when you open it in your browser."
+            "value": "La dirección de tu interfaz web de Nextcloud cuando la abres en tu navegador."
           }
         },
         "es_AR": {
           "stringUnit": {
             "state": "translated",
-            "value": "The address of your Nextcloud web interface when you open it in your browser."
+            "value": "La dirección de tu interfaz web de Nextcloud cuando la abres en tu navegador."
           }
         },
         "es_CL": {
           "stringUnit": {
             "state": "translated",
-            "value": "The address of your Nextcloud web interface when you open it in your browser."
+            "value": "La dirección de tu interfaz web de Nextcloud cuando la abres en tu navegador."
           }
         },
         "es_CO": {
           "stringUnit": {
             "state": "translated",
-            "value": "The address of your Nextcloud web interface when you open it in your browser."
+            "value": "La dirección de tu interfaz web de Nextcloud cuando la abres en tu navegador."
           }
         },
         "es_CR": {
           "stringUnit": {
             "state": "translated",
-            "value": "The address of your Nextcloud web interface when you open it in your browser."
+            "value": "La dirección de tu interfaz web de Nextcloud cuando la abres en tu navegador."
           }
         },
         "es_DO": {
           "stringUnit": {
             "state": "translated",
-            "value": "The address of your Nextcloud web interface when you open it in your browser."
+            "value": "La dirección de tu interfaz web de Nextcloud cuando la abres en tu navegador."
           }
         },
         "es_EC": {
           "stringUnit": {
             "state": "translated",
-            "value": "The address of your Nextcloud web interface when you open it in your browser."
+            "value": "La dirección de tu interfaz web de Nextcloud cuando la abres en tu navegador."
           }
         },
         "es_GT": {
           "stringUnit": {
             "state": "translated",
-            "value": "The address of your Nextcloud web interface when you open it in your browser."
+            "value": "La dirección de tu interfaz web de Nextcloud cuando la abres en tu navegador."
           }
         },
         "es_HN": {
           "stringUnit": {
             "state": "translated",
-            "value": "The address of your Nextcloud web interface when you open it in your browser."
+            "value": "La dirección de tu interfaz web de Nextcloud cuando la abres en tu navegador."
           }
         },
         "es_MX": {
           "stringUnit": {
             "state": "translated",
-            "value": "The address of your Nextcloud web interface when you open it in your browser."
+            "value": "La dirección de tu interfaz web de Nextcloud cuando la abres en tu navegador."
           }
         },
         "es_NI": {
           "stringUnit": {
             "state": "translated",
-            "value": "The address of your Nextcloud web interface when you open it in your browser."
+            "value": "La dirección de tu interfaz web de Nextcloud cuando la abres en tu navegador."
           }
         },
         "es_PA": {
           "stringUnit": {
             "state": "translated",
-            "value": "The address of your Nextcloud web interface when you open it in your browser."
+            "value": "La dirección de tu interfaz web de Nextcloud cuando la abres en tu navegador."
           }
         },
         "es_PE": {
           "stringUnit": {
             "state": "translated",
-            "value": "The address of your Nextcloud web interface when you open it in your browser."
+            "value": "La dirección de tu interfaz web de Nextcloud cuando la abres en tu navegador."
           }
         },
         "es_PR": {
           "stringUnit": {
             "state": "translated",
-            "value": "The address of your Nextcloud web interface when you open it in your browser."
+            "value": "La dirección de tu interfaz web de Nextcloud cuando la abres en tu navegador."
           }
         },
         "es_PY": {
           "stringUnit": {
             "state": "translated",
-            "value": "The address of your Nextcloud web interface when you open it in your browser."
+            "value": "La dirección de tu interfaz web de Nextcloud cuando la abres en tu navegador."
           }
         },
         "es_SV": {
           "stringUnit": {
             "state": "translated",
-            "value": "The address of your Nextcloud web interface when you open it in your browser."
+            "value": "La dirección de tu interfaz web de Nextcloud cuando la abres en tu navegador."
           }
         },
         "es_UY": {
           "stringUnit": {
             "state": "translated",
-            "value": "The address of your Nextcloud web interface when you open it in your browser."
+            "value": "La dirección de tu interfaz web de Nextcloud cuando la abres en tu navegador."
           }
         },
         "et_EE": {
@@ -4158,13 +4158,13 @@
         "eu": {
           "stringUnit": {
             "state": "translated",
-            "value": "The address of your Nextcloud web interface when you open it in your browser."
+            "value": "Zure Nextcloud web interfazearen helbidea zure nabigatzailean irekitzen duzunean."
           }
         },
         "fa": {
           "stringUnit": {
             "state": "translated",
-            "value": "The address of your Nextcloud web interface when you open it in your browser."
+            "value": "آدرس رابط وب Nextcloud شما هنگامی که آن را در مرورگر خود باز می‌کنید."
           }
         },
         "fi_FI": {
@@ -4176,163 +4176,163 @@
         "fo": {
           "stringUnit": {
             "state": "translated",
-            "value": "The address of your Nextcloud web interface when you open it in your browser."
+            "value": "Adressa á tínum Nextcloud net viðmóti tá tú opnar tað í tínum kaga."
           }
         },
         "fr": {
           "stringUnit": {
             "state": "translated",
-            "value": "The address of your Nextcloud web interface when you open it in your browser."
+            "value": "L'adresse de votre interface web Nextcloud lorsque vous l'ouvrez dans votre navigateur."
           }
         },
         "ga": {
           "stringUnit": {
             "state": "translated",
-            "value": "The address of your Nextcloud web interface when you open it in your browser."
+            "value": "Seoladh do chomhéadan gréasáin Nextcloud nuair a osclaíonn tú é i do bhrabhsálaí."
           }
         },
         "gd": {
           "stringUnit": {
             "state": "translated",
-            "value": "The address of your Nextcloud web interface when you open it in your browser."
+            "value": "Seòladh eadar-aghaidh-lìn Nextcloud agad nuair a dh'fhosglas tu e sa bhrabhsair agad."
           }
         },
         "gl": {
           "stringUnit": {
             "state": "translated",
-            "value": "The address of your Nextcloud web interface when you open it in your browser."
+            "value": "O enderezo da túa interface web de Nextcloud cando a abres no teu navegador."
           }
         },
         "he": {
           "stringUnit": {
             "state": "translated",
-            "value": "The address of your Nextcloud web interface when you open it in your browser."
+            "value": "הכתובת של ממשק האינטרנט של Nextcloud שלך כשאתה פותח אותו בדפדפן שלך."
           }
         },
         "hi_IN": {
           "stringUnit": {
             "state": "translated",
-            "value": "The address of your Nextcloud web interface when you open it in your browser."
+            "value": "जब आप इसे अपने ब्राउज़र में खोलते हैं तो आपके Nextcloud वेब इंटरफ़ेस का पता।"
           }
         },
         "hr": {
           "stringUnit": {
             "state": "translated",
-            "value": "The address of your Nextcloud web interface when you open it in your browser."
+            "value": "Adresa vašeg Nextcloud web sučelja kada ga otvorite u svom pregledniku."
           }
         },
         "hsb": {
           "stringUnit": {
             "state": "translated",
-            "value": "The address of your Nextcloud web interface when you open it in your browser."
+            "value": "Adresa wašeho webowskeho powjercha Nextcloud, hdyž jón w swojim wobhladowaku wočinješ."
           }
         },
         "hu_HU": {
           "stringUnit": {
             "state": "translated",
-            "value": "The address of your Nextcloud web interface when you open it in your browser."
+            "value": "A Nextcloud webes felületének címe, amikor megnyitod a böngészőben."
           }
         },
         "hy": {
           "stringUnit": {
             "state": "translated",
-            "value": "The address of your Nextcloud web interface when you open it in your browser."
+            "value": "Ձեր Nextcloud վեբ ինտերֆեյսի հասցեն, երբ բացում եք այն ձեր բրաուզերում:"
           }
         },
         "ia": {
           "stringUnit": {
             "state": "translated",
-            "value": "The address of your Nextcloud web interface when you open it in your browser."
+            "value": "Le adresse de tu interfacie web Nextcloud quando tu lo aperi in tu navigator."
           }
         },
         "id": {
           "stringUnit": {
             "state": "translated",
-            "value": "The address of your Nextcloud web interface when you open it in your browser."
+            "value": "Alamat antarmuka web Nextcloud Anda saat membukanya di browser Anda."
           }
         },
         "ig": {
           "stringUnit": {
             "state": "translated",
-            "value": "The address of your Nextcloud web interface when you open it in your browser."
+            "value": "Adreesị nke Nextcloud web interface gị mgbe i meghee ya na browser gị."
           }
         },
         "is": {
           "stringUnit": {
             "state": "translated",
-            "value": "The address of your Nextcloud web interface when you open it in your browser."
+            "value": "Vistfang Nextcloud vefviðmótsins þíns þegar þú opnar það í vafranum þínum."
           }
         },
         "it": {
           "stringUnit": {
             "state": "translated",
-            "value": "The address of your Nextcloud web interface when you open it in your browser."
+            "value": "L'indirizzo della tua interfaccia web Nextcloud quando la apri nel tuo browser."
           }
         },
         "ja_JP": {
           "stringUnit": {
             "state": "translated",
-            "value": "The address of your Nextcloud web interface when you open it in your browser."
+            "value": "ブラウザでNextcloud Webインターフェースを開いたときのアドレス。"
           }
         },
         "ka": {
           "stringUnit": {
             "state": "translated",
-            "value": "The address of your Nextcloud web interface when you open it in your browser."
+            "value": "თქვენი Nextcloud ვებ ინტერფეისის მისამართი, როდესაც მას ბრაუზერში ხსნით."
           }
         },
         "ka_GE": {
           "stringUnit": {
             "state": "translated",
-            "value": "The address of your Nextcloud web interface when you open it in your browser."
+            "value": "თქვენი Nextcloud ვებ ინტერფეისის მისამართი, როდესაც მას ბრაუზერში ხსნით."
           }
         },
         "kab": {
           "stringUnit": {
             "state": "translated",
-            "value": "The address of your Nextcloud web interface when you open it in your browser."
+            "value": "Tansa n ugrudem web Nextcloud inek ticki ldiḍ-t deg iminig-inek."
           }
         },
         "km": {
           "stringUnit": {
             "state": "translated",
-            "value": "The address of your Nextcloud web interface when you open it in your browser."
+            "value": "អាសយដ្ឋានចំណុចប្រទាក់បណ្ដាញ Nextcloud របស់អ្នកនៅពេលអ្នកបើកវានៅក្នុងកម្មវិធីរុករករបស់អ្នក។"
           }
         },
         "kn": {
           "stringUnit": {
             "state": "translated",
-            "value": "The address of your Nextcloud web interface when you open it in your browser."
+            "value": "ನಿಮ್ಮ ಬ್ರೌಸರ್‌ನಲ್ಲಿ ತೆರೆದಾಗ ನಿಮ್ಮ Nextcloud ವೆಬ್ ಇಂಟರ್‌ಫೇಸ್‌ನ ವಿಳಾಸ."
           }
         },
         "ko": {
           "stringUnit": {
             "state": "translated",
-            "value": "The address of your Nextcloud web interface when you open it in your browser."
+            "value": "브라우저에서 열 때 Nextcloud 웹 인터페이스의 주소입니다."
           }
         },
         "la": {
           "stringUnit": {
             "state": "translated",
-            "value": "The address of your Nextcloud web interface when you open it in your browser."
+            "value": "Inscriptio tui nexus Nextcloud cum aperis in tuo navigatore."
           }
         },
         "lb": {
           "stringUnit": {
             "state": "translated",
-            "value": "The address of your Nextcloud web interface when you open it in your browser."
+            "value": "D'Adress vun Ärer Nextcloud Weboberfläch wann Dir se an Ärem Browser opmaacht."
           }
         },
         "lo": {
           "stringUnit": {
             "state": "translated",
-            "value": "The address of your Nextcloud web interface when you open it in your browser."
+            "value": "ທີ່ຢູ່ຂອງສ່ວນຕິດຕໍ່ເວັບ Nextcloud ຂອງເຈົ້າເມື່ອເຈົ້າເປີດມັນໃນບຣາວເຊີຂອງເຈົ້າ."
           }
         },
         "lt_LT": {
           "stringUnit": {
             "state": "translated",
-            "value": "The address of your Nextcloud web interface when you open it in your browser."
+            "value": "Jūsų Nextcloud žiniatinklio sąsajos adresas, kai ją atidarote naršyklėje."
           }
         },
         "lv": {
@@ -4344,73 +4344,73 @@
         "mk": {
           "stringUnit": {
             "state": "translated",
-            "value": "The address of your Nextcloud web interface when you open it in your browser."
+            "value": "Адресата на вашиот Nextcloud веб интерфејс кога ќе го отворите во вашиот прелистувач."
           }
         },
         "mn": {
           "stringUnit": {
             "state": "translated",
-            "value": "The address of your Nextcloud web interface when you open it in your browser."
+            "value": "Таны хөтчид нээх үедээ таны Nextcloud вэб интерфейсийн хаяг."
           }
         },
         "mr": {
           "stringUnit": {
             "state": "translated",
-            "value": "The address of your Nextcloud web interface when you open it in your browser."
+            "value": "जेव्हा तुम्ही तुमच्या ब्राउझरमध्ये उघडता तेव्हा तुमच्या Nextcloud वेब इंटरफेसचा पत्ता."
           }
         },
         "ms_MY": {
           "stringUnit": {
             "state": "translated",
-            "value": "The address of your Nextcloud web interface when you open it in your browser."
+            "value": "Alamat antara muka web Nextcloud anda apabila anda membukanya dalam pelayar anda."
           }
         },
         "my": {
           "stringUnit": {
             "state": "translated",
-            "value": "The address of your Nextcloud web interface when you open it in your browser."
+            "value": "သင်၏ဘရောက်ဆာတွင်ဖွင့်သောအခါသင်၏ Nextcloud ဝဘ်အင်တာဖေ့စ်၏လိပ်စာ။"
           }
         },
         "nb_NO": {
           "stringUnit": {
             "state": "translated",
-            "value": "The address of your Nextcloud web interface when you open it in your browser."
+            "value": "Adressen til ditt Nextcloud webgrensesnitt når du åpner det i nettleseren din."
           }
         },
         "ne": {
           "stringUnit": {
             "state": "translated",
-            "value": "The address of your Nextcloud web interface when you open it in your browser."
+            "value": "तपाईंको ब्राउजरमा खोल्दा तपाईंको Nextcloud वेब इन्टरफेसको ठेगाना।"
           }
         },
         "nl": {
           "stringUnit": {
             "state": "translated",
-            "value": "The address of your Nextcloud web interface when you open it in your browser."
+            "value": "Het adres van uw Nextcloud webinterface wanneer u het opent in uw browser."
           }
         },
         "nn_NO": {
           "stringUnit": {
             "state": "translated",
-            "value": "The address of your Nextcloud web interface when you open it in your browser."
+            "value": "Adressa til Nextcloud-webgrensesnittet ditt når du opnar det i nettlesaren din."
           }
         },
         "oc": {
           "stringUnit": {
             "state": "translated",
-            "value": "The address of your Nextcloud web interface when you open it in your browser."
+            "value": "L'adreça de vòstra interfàcia web Nextcloud quand la dobrissètz dins vòstre navigador."
           }
         },
         "pl": {
           "stringUnit": {
             "state": "translated",
-            "value": "The address of your Nextcloud web interface when you open it in your browser."
+            "value": "Adres interfejsu internetowego Nextcloud, który otwierasz w przeglądarce."
           }
         },
         "ps": {
           "stringUnit": {
             "state": "translated",
-            "value": "The address of your Nextcloud web interface when you open it in your browser."
+            "value": "ستاسو د Nextcloud ویب انٹرفیس پته کله چې تاسو یې په خپل براوزر کې خلاصوئ."
           }
         },
         "pt_BR": {
@@ -4422,55 +4422,55 @@
         "pt_PT": {
           "stringUnit": {
             "state": "translated",
-            "value": "The address of your Nextcloud web interface when you open it in your browser."
+            "value": "O endereço da sua interface web Nextcloud quando a abrir no seu navegador."
           }
         },
         "ro": {
           "stringUnit": {
             "state": "translated",
-            "value": "The address of your Nextcloud web interface when you open it in your browser."
+            "value": "Adresa interfeței web Nextcloud când o deschizi în browser."
           }
         },
         "ru": {
           "stringUnit": {
             "state": "translated",
-            "value": "The address of your Nextcloud web interface when you open it in your browser."
+            "value": "Адрес вашего веб-интерфейса Nextcloud, когда вы открываете его в браузере."
           }
         },
         "sc": {
           "stringUnit": {
             "state": "translated",
-            "value": "The address of your Nextcloud web interface when you open it in your browser."
+            "value": "S'indiritzu de s'interfache web de Nextcloud cando l'abris in su navigadore tuo."
           }
         },
         "si": {
           "stringUnit": {
             "state": "translated",
-            "value": "The address of your Nextcloud web interface when you open it in your browser."
+            "value": "ඔබගේ බ්‍රවුසරයේ විවෘත කරන විට ඔබගේ Nextcloud වෙබ් අතුරු මුහුණතේ ලිපිනය."
           }
         },
         "sk_SK": {
           "stringUnit": {
             "state": "translated",
-            "value": "The address of your Nextcloud web interface when you open it in your browser."
+            "value": "Adresa vášho webového rozhrania Nextcloud, keď ho otvoríte vo vašom prehliadači."
           }
         },
         "sl": {
           "stringUnit": {
             "state": "translated",
-            "value": "The address of your Nextcloud web interface when you open it in your browser."
+            "value": "Naslov vašega spletnega vmesnika Nextcloud, ko ga odprete v brskalniku."
           }
         },
         "sq": {
           "stringUnit": {
             "state": "translated",
-            "value": "The address of your Nextcloud web interface when you open it in your browser."
+            "value": "Adresa e ndërfaqes tuaj të uebit Nextcloud kur e hapni në shfletuesin tuaj."
           }
         },
         "sr": {
           "stringUnit": {
             "state": "translated",
-            "value": "The address of your Nextcloud web interface when you open it in your browser."
+            "value": "Адреса вашег Nextcloud веб интерфејса када га отворите у прегледачу."
           }
         },
         "sv": {
@@ -4482,67 +4482,67 @@
         "sw": {
           "stringUnit": {
             "state": "translated",
-            "value": "The address of your Nextcloud web interface when you open it in your browser."
+            "value": "Anwani ya kiolesura cha wavuti cha Nextcloud wakati unapoifungua katika kivinjari chako."
           }
         },
         "ta": {
           "stringUnit": {
             "state": "translated",
-            "value": "The address of your Nextcloud web interface when you open it in your browser."
+            "value": "உங்கள் உலாவியில் திறக்கும்போது உங்கள் Nextcloud வலை இடைமுகத்தின் முகவரி."
           }
         },
         "th_TH": {
           "stringUnit": {
             "state": "translated",
-            "value": "The address of your Nextcloud web interface when you open it in your browser."
+            "value": "ที่อยู่ของส่วนติดต่อเว็บ Nextcloud ของคุณเมื่อคุณเปิดในเบราว์เซอร์ของคุณ"
           }
         },
         "tk": {
           "stringUnit": {
             "state": "translated",
-            "value": "The address of your Nextcloud web interface when you open it in your browser."
+            "value": "Brauzeriňizde açyp görenimde Nextcloud web interfeýsiňiziň salgysy."
           }
         },
         "tr": {
           "stringUnit": {
             "state": "translated",
-            "value": "The address of your Nextcloud web interface when you open it in your browser."
+            "value": "Nextcloud web arayüzünüzün tarayıcınızda açtığınız adresı."
           }
         },
         "ug": {
           "stringUnit": {
             "state": "translated",
-            "value": "The address of your Nextcloud web interface when you open it in your browser."
+            "value": "براۇزېرىڭىزدا ئاچقاندا Nextcloud تور كۆرۈنمە يۈزىڭىزنىڭ ئادرېسى."
           }
         },
         "uk": {
           "stringUnit": {
             "state": "translated",
-            "value": "The address of your Nextcloud web interface when you open it in your browser."
+            "value": "Адреса вашого веб-інтерфейсу Nextcloud, коли ви відкриваєте його в браузері."
           }
         },
         "ur_PK": {
           "stringUnit": {
             "state": "translated",
-            "value": "The address of your Nextcloud web interface when you open it in your browser."
+            "value": "آپ کے Nextcloud ویب انٹرفیس کا پتہ جب آپ اسے اپنے براؤزر میں کھولتے ہیں۔"
           }
         },
         "uz": {
           "stringUnit": {
             "state": "translated",
-            "value": "The address of your Nextcloud web interface when you open it in your browser."
+            "value": "Brauzeryingizda ochganingizda Nextcloud veb-interfeysingizning manzili."
           }
         },
         "vi": {
           "stringUnit": {
             "state": "translated",
-            "value": "The address of your Nextcloud web interface when you open it in your browser."
+            "value": "Địa chỉ giao diện web Nextcloud của bạn khi bạn mở nó trong trình duyệt."
           }
         },
         "zh_CN": {
           "stringUnit": {
             "state": "translated",
-            "value": "The address of your Nextcloud web interface when you open it in your browser."
+            "value": "在浏览器中打开时您的 Nextcloud 网页界面的地址。"
           }
         },
         "zh_HK": {
@@ -4560,13 +4560,13 @@
         "zu_ZA": {
           "stringUnit": {
             "state": "translated",
-            "value": "The address of your Nextcloud web interface when you open it in your browser."
+            "value": "Ikheli le-Nextcloud web interface yakho uma uyivula kusiphequluli sakho."
           }
         },
         "sr@latin": {
           "stringUnit": {
             "state": "translated",
-            "value": "The address of your Nextcloud web interface when you open it in your browser."
+            "value": "Adresa vašeg Nextcloud veb interfejsa kada ga otvorite u pregledaču."
           }
         }
       }
@@ -4577,85 +4577,85 @@
         "af": {
           "stringUnit": {
             "state": "translated",
-            "value": "The entered server address is invalid."
+            "value": "Die ingevoerde bediener adres is ongeldig."
           }
         },
         "an": {
           "stringUnit": {
             "state": "translated",
-            "value": "The entered server address is invalid."
+            "value": "L'adreza d'o servidor introducida no ye valida."
           }
         },
         "ar": {
           "stringUnit": {
             "state": "translated",
-            "value": "The entered server address is invalid."
+            "value": "عنوان الخادم المُدخل غير صالح."
           }
         },
         "ast": {
           "stringUnit": {
             "state": "translated",
-            "value": "The entered server address is invalid."
+            "value": "La direición del sirvidor introducida nun ye válida."
           }
         },
         "az": {
           "stringUnit": {
             "state": "translated",
-            "value": "The entered server address is invalid."
+            "value": "Daxil edilən server ünvanı yanlışdır."
           }
         },
         "be": {
           "stringUnit": {
             "state": "translated",
-            "value": "The entered server address is invalid."
+            "value": "Уведзены адрас сервера несапраўдны."
           }
         },
         "bg_BG": {
           "stringUnit": {
             "state": "translated",
-            "value": "The entered server address is invalid."
+            "value": "Въведеният адрес на сървъра е невалиден."
           }
         },
         "bn_BD": {
           "stringUnit": {
             "state": "translated",
-            "value": "The entered server address is invalid."
+            "value": "প্রবেশ করানো সার্ভার ঠিকানা অবৈধ।"
           }
         },
         "br": {
           "stringUnit": {
             "state": "translated",
-            "value": "The entered server address is invalid."
+            "value": "Chomlec'h ar servijer ebarzhet a zo direizh."
           }
         },
         "bs": {
           "stringUnit": {
             "state": "translated",
-            "value": "The entered server address is invalid."
+            "value": "Unesena adresa servera nije valjana."
           }
         },
         "ca": {
           "stringUnit": {
             "state": "translated",
-            "value": "The entered server address is invalid."
+            "value": "L'adreça del servidor introduïda no és vàlida."
           }
         },
         "cs_CZ": {
           "stringUnit": {
             "state": "translated",
-            "value": "The entered server address is invalid."
+            "value": "Zadaná adresa serveru je neplatná."
           }
         },
         "cy_GB": {
           "stringUnit": {
             "state": "translated",
-            "value": "The entered server address is invalid."
+            "value": "Mae'r cyfeiriad gweinydd a nodwyd yn annilys."
           }
         },
         "da": {
           "stringUnit": {
             "state": "translated",
-            "value": "The entered server address is invalid."
+            "value": "Den indtastede serveradresse er ugyldig."
           }
         },
         "de": {
@@ -4673,7 +4673,7 @@
         "el": {
           "stringUnit": {
             "state": "translated",
-            "value": "The entered server address is invalid."
+            "value": "Η διεύθυνση διακομιστή που εισήχθη δεν είναι έγκυρη."
           }
         },
         "en": {
@@ -4691,7 +4691,7 @@
         "eo": {
           "stringUnit": {
             "state": "translated",
-            "value": "The entered server address is invalid."
+            "value": "La enigita servila adreso estas nevalida."
           }
         },
         "es": {
@@ -4703,103 +4703,103 @@
         "es_419": {
           "stringUnit": {
             "state": "translated",
-            "value": "The entered server address is invalid."
+            "value": "La dirección del servidor introducida no es válida."
           }
         },
         "es_AR": {
           "stringUnit": {
             "state": "translated",
-            "value": "The entered server address is invalid."
+            "value": "La dirección del servidor introducida no es válida."
           }
         },
         "es_CL": {
           "stringUnit": {
             "state": "translated",
-            "value": "The entered server address is invalid."
+            "value": "La dirección del servidor introducida no es válida."
           }
         },
         "es_CO": {
           "stringUnit": {
             "state": "translated",
-            "value": "The entered server address is invalid."
+            "value": "La dirección del servidor introducida no es válida."
           }
         },
         "es_CR": {
           "stringUnit": {
             "state": "translated",
-            "value": "The entered server address is invalid."
+            "value": "La dirección del servidor introducida no es válida."
           }
         },
         "es_DO": {
           "stringUnit": {
             "state": "translated",
-            "value": "The entered server address is invalid."
+            "value": "La dirección del servidor introducida no es válida."
           }
         },
         "es_EC": {
           "stringUnit": {
             "state": "translated",
-            "value": "The entered server address is invalid."
+            "value": "La dirección del servidor introducida no es válida."
           }
         },
         "es_GT": {
           "stringUnit": {
             "state": "translated",
-            "value": "The entered server address is invalid."
+            "value": "La dirección del servidor introducida no es válida."
           }
         },
         "es_HN": {
           "stringUnit": {
             "state": "translated",
-            "value": "The entered server address is invalid."
+            "value": "La dirección del servidor introducida no es válida."
           }
         },
         "es_MX": {
           "stringUnit": {
             "state": "translated",
-            "value": "The entered server address is invalid."
+            "value": "La dirección del servidor introducida no es válida."
           }
         },
         "es_NI": {
           "stringUnit": {
             "state": "translated",
-            "value": "The entered server address is invalid."
+            "value": "La dirección del servidor introducida no es válida."
           }
         },
         "es_PA": {
           "stringUnit": {
             "state": "translated",
-            "value": "The entered server address is invalid."
+            "value": "La dirección del servidor introducida no es válida."
           }
         },
         "es_PE": {
           "stringUnit": {
             "state": "translated",
-            "value": "The entered server address is invalid."
+            "value": "La dirección del servidor introducida no es válida."
           }
         },
         "es_PR": {
           "stringUnit": {
             "state": "translated",
-            "value": "The entered server address is invalid."
+            "value": "La dirección del servidor introducida no es válida."
           }
         },
         "es_PY": {
           "stringUnit": {
             "state": "translated",
-            "value": "The entered server address is invalid."
+            "value": "La dirección del servidor introducida no es válida."
           }
         },
         "es_SV": {
           "stringUnit": {
             "state": "translated",
-            "value": "The entered server address is invalid."
+            "value": "La dirección del servidor introducida no es válida."
           }
         },
         "es_UY": {
           "stringUnit": {
             "state": "translated",
-            "value": "The entered server address is invalid."
+            "value": "La dirección del servidor introducida no es válida."
           }
         },
         "et_EE": {
@@ -4811,13 +4811,13 @@
         "eu": {
           "stringUnit": {
             "state": "translated",
-            "value": "The entered server address is invalid."
+            "value": "Sartutako zerbitzariaren helbidea ez da baliozkoa."
           }
         },
         "fa": {
           "stringUnit": {
             "state": "translated",
-            "value": "The entered server address is invalid."
+            "value": "آدرس سرور وارد شده نامعتبر است."
           }
         },
         "fi_FI": {
@@ -4829,163 +4829,163 @@
         "fo": {
           "stringUnit": {
             "state": "translated",
-            "value": "The entered server address is invalid."
+            "value": "Innskrivaða ambætaraadressa er ógildig."
           }
         },
         "fr": {
           "stringUnit": {
             "state": "translated",
-            "value": "The entered server address is invalid."
+            "value": "L'adresse du serveur saisie n'est pas valide."
           }
         },
         "ga": {
           "stringUnit": {
             "state": "translated",
-            "value": "The entered server address is invalid."
+            "value": "Tá seoladh an fhreastalaí iontráilte neamhbhailí."
           }
         },
         "gd": {
           "stringUnit": {
             "state": "translated",
-            "value": "The entered server address is invalid."
+            "value": "Tha seòladh an fhrithealaiche a chuir thu a-steach mì-dhligheach."
           }
         },
         "gl": {
           "stringUnit": {
             "state": "translated",
-            "value": "The entered server address is invalid."
+            "value": "O enderezo do servidor introducido non é válido."
           }
         },
         "he": {
           "stringUnit": {
             "state": "translated",
-            "value": "The entered server address is invalid."
+            "value": "כתובת השרת שהוזנה אינה תקפה."
           }
         },
         "hi_IN": {
           "stringUnit": {
             "state": "translated",
-            "value": "The entered server address is invalid."
+            "value": "दर्ज किया गया सर्वर पता अमान्य है।"
           }
         },
         "hr": {
           "stringUnit": {
             "state": "translated",
-            "value": "The entered server address is invalid."
+            "value": "Unesena adresa poslužitelja nije valjana."
           }
         },
         "hsb": {
           "stringUnit": {
             "state": "translated",
-            "value": "The entered server address is invalid."
+            "value": "Zapódana serwowska adresa je njepłaćiwa."
           }
         },
         "hu_HU": {
           "stringUnit": {
             "state": "translated",
-            "value": "The entered server address is invalid."
+            "value": "A megadott szerver cím érvénytelen."
           }
         },
         "hy": {
           "stringUnit": {
             "state": "translated",
-            "value": "The entered server address is invalid."
+            "value": "Մուտքագրված սերվերի հասցեն անվավեր է:"
           }
         },
         "ia": {
           "stringUnit": {
             "state": "translated",
-            "value": "The entered server address is invalid."
+            "value": "Le adresse del servitor inserite es invalide."
           }
         },
         "id": {
           "stringUnit": {
             "state": "translated",
-            "value": "The entered server address is invalid."
+            "value": "Alamat server yang dimasukkan tidak valid."
           }
         },
         "ig": {
           "stringUnit": {
             "state": "translated",
-            "value": "The entered server address is invalid."
+            "value": "Adreesị server nke e tinyere adịghị aga."
           }
         },
         "is": {
           "stringUnit": {
             "state": "translated",
-            "value": "The entered server address is invalid."
+            "value": "Vistfang þjónsins sem slegið var inn er ógilt."
           }
         },
         "it": {
           "stringUnit": {
             "state": "translated",
-            "value": "The entered server address is invalid."
+            "value": "L'indirizzo del server inserito non è valido."
           }
         },
         "ja_JP": {
           "stringUnit": {
             "state": "translated",
-            "value": "The entered server address is invalid."
+            "value": "入力されたサーバーアドレスは無効です。"
           }
         },
         "ka": {
           "stringUnit": {
             "state": "translated",
-            "value": "The entered server address is invalid."
+            "value": "შეყვანილი სერვერის მისამართი არასწორია."
           }
         },
         "ka_GE": {
           "stringUnit": {
             "state": "translated",
-            "value": "The entered server address is invalid."
+            "value": "შეყვანილი სერვერის მისამართი არასწორია."
           }
         },
         "kab": {
           "stringUnit": {
             "state": "translated",
-            "value": "The entered server address is invalid."
+            "value": "Tansa n uqeddac i d-teskecmeḍ ur tameɣtu ara."
           }
         },
         "km": {
           "stringUnit": {
             "state": "translated",
-            "value": "The entered server address is invalid."
+            "value": "អាសយដ្ឋានម៉ាស៊ីនមេដែលបានបញ្ចូលមិនត្រឹមត្រូវ។"
           }
         },
         "kn": {
           "stringUnit": {
             "state": "translated",
-            "value": "The entered server address is invalid."
+            "value": "ನಮೂದಿಸಲಾದ ಸರ್ವರ್ ವಿಳಾಸ ಅಮಾನ್ಯವಾಗಿದೆ."
           }
         },
         "ko": {
           "stringUnit": {
             "state": "translated",
-            "value": "The entered server address is invalid."
+            "value": "입력한 서버 주소가 유효하지 않습니다."
           }
         },
         "la": {
           "stringUnit": {
             "state": "translated",
-            "value": "The entered server address is invalid."
+            "value": "Inscriptio ministrantis inlata invalida est."
           }
         },
         "lb": {
           "stringUnit": {
             "state": "translated",
-            "value": "The entered server address is invalid."
+            "value": "Déi aginn Serveradress ass ongëlteg."
           }
         },
         "lo": {
           "stringUnit": {
             "state": "translated",
-            "value": "The entered server address is invalid."
+            "value": "ທີ່ຢູ່ເຊີບເວີທີ່ປ້ອນເຂົ້າບໍ່ຖືກຕ້ອງ."
           }
         },
         "lt_LT": {
           "stringUnit": {
             "state": "translated",
-            "value": "The entered server address is invalid."
+            "value": "Įvestas serverio adresas yra netinkamas."
           }
         },
         "lv": {
@@ -4997,73 +4997,73 @@
         "mk": {
           "stringUnit": {
             "state": "translated",
-            "value": "The entered server address is invalid."
+            "value": "Внесената адреса на серверот е неважечка."
           }
         },
         "mn": {
           "stringUnit": {
             "state": "translated",
-            "value": "The entered server address is invalid."
+            "value": "Оруулсан серверийн хаяг буруу байна."
           }
         },
         "mr": {
           "stringUnit": {
             "state": "translated",
-            "value": "The entered server address is invalid."
+            "value": "प्रविष्ट केलेला सर्व्हर पत्ता अवैध आहे."
           }
         },
         "ms_MY": {
           "stringUnit": {
             "state": "translated",
-            "value": "The entered server address is invalid."
+            "value": "Alamat pelayan yang dimasukkan tidak sah."
           }
         },
         "my": {
           "stringUnit": {
             "state": "translated",
-            "value": "The entered server address is invalid."
+            "value": "ထည့်သွင်းထားသောဆာဗာလိပ်စာမမှန်ကန်ပါ။"
           }
         },
         "nb_NO": {
           "stringUnit": {
             "state": "translated",
-            "value": "The entered server address is invalid."
+            "value": "Den innlagte serveradressen er ugyldig."
           }
         },
         "ne": {
           "stringUnit": {
             "state": "translated",
-            "value": "The entered server address is invalid."
+            "value": "प्रविष्ट गरिएको सर्भर ठेगाना अवैध छ।"
           }
         },
         "nl": {
           "stringUnit": {
             "state": "translated",
-            "value": "The entered server address is invalid."
+            "value": "Het ingevoerde serveradres is ongeldig."
           }
         },
         "nn_NO": {
           "stringUnit": {
             "state": "translated",
-            "value": "The entered server address is invalid."
+            "value": "Den inntasta serveradressa er ugyldig."
           }
         },
         "oc": {
           "stringUnit": {
             "state": "translated",
-            "value": "The entered server address is invalid."
+            "value": "L'adreça del servidor picada es pas valida."
           }
         },
         "pl": {
           "stringUnit": {
             "state": "translated",
-            "value": "The entered server address is invalid."
+            "value": "Wprowadzony adres serwera jest nieprawidłowy."
           }
         },
         "ps": {
           "stringUnit": {
             "state": "translated",
-            "value": "The entered server address is invalid."
+            "value": "د داخل شوي سرور پته سمه نده."
           }
         },
         "pt_BR": {
@@ -5075,55 +5075,55 @@
         "pt_PT": {
           "stringUnit": {
             "state": "translated",
-            "value": "The entered server address is invalid."
+            "value": "O endereço do servidor introduzido é inválido."
           }
         },
         "ro": {
           "stringUnit": {
             "state": "translated",
-            "value": "The entered server address is invalid."
+            "value": "Adresa serverului introdusă este nevalidă."
           }
         },
         "ru": {
           "stringUnit": {
             "state": "translated",
-            "value": "The entered server address is invalid."
+            "value": "Введённый адрес сервера недействителен."
           }
         },
         "sc": {
           "stringUnit": {
             "state": "translated",
-            "value": "The entered server address is invalid."
+            "value": "S'indiritzu de su serbidore insertadu no est bàlidu."
           }
         },
         "si": {
           "stringUnit": {
             "state": "translated",
-            "value": "The entered server address is invalid."
+            "value": "ඇතුළත් කළ සේවාදායක ලිපිනය වලංගු නැත."
           }
         },
         "sk_SK": {
           "stringUnit": {
             "state": "translated",
-            "value": "The entered server address is invalid."
+            "value": "Zadaná adresa servera je neplatná."
           }
         },
         "sl": {
           "stringUnit": {
             "state": "translated",
-            "value": "The entered server address is invalid."
+            "value": "Vneseni naslov strežnika ni veljaven."
           }
         },
         "sq": {
           "stringUnit": {
             "state": "translated",
-            "value": "The entered server address is invalid."
+            "value": "Adresa e serverit e dhënë është e pavlefshme."
           }
         },
         "sr": {
           "stringUnit": {
             "state": "translated",
-            "value": "The entered server address is invalid."
+            "value": "Унесена адреса сервера није важећа."
           }
         },
         "sv": {
@@ -5135,67 +5135,67 @@
         "sw": {
           "stringUnit": {
             "state": "translated",
-            "value": "The entered server address is invalid."
+            "value": "Anwani ya seva iliyoingizwa si sahihi."
           }
         },
         "ta": {
           "stringUnit": {
             "state": "translated",
-            "value": "The entered server address is invalid."
+            "value": "உள்ளிடப்பட்ட சர்வர் முகவரி தவறானது."
           }
         },
         "th_TH": {
           "stringUnit": {
             "state": "translated",
-            "value": "The entered server address is invalid."
+            "value": "ที่อยู่เซิร์ฟเวอร์ที่ป้อนไม่ถูกต้อง"
           }
         },
         "tk": {
           "stringUnit": {
             "state": "translated",
-            "value": "The entered server address is invalid."
+            "value": "Girizilen serwer salgysy nädogry."
           }
         },
         "tr": {
           "stringUnit": {
             "state": "translated",
-            "value": "The entered server address is invalid."
+            "value": "Girilen sunucu adresi geçersiz."
           }
         },
         "ug": {
           "stringUnit": {
             "state": "translated",
-            "value": "The entered server address is invalid."
+            "value": "كىرگۈزگەن مۇلازىمېتىر ئادرېسى ئىناۋەتسىز."
           }
         },
         "uk": {
           "stringUnit": {
             "state": "translated",
-            "value": "The entered server address is invalid."
+            "value": "Введена адреса сервера недійсна."
           }
         },
         "ur_PK": {
           "stringUnit": {
             "state": "translated",
-            "value": "The entered server address is invalid."
+            "value": "درج کیا گیا سرور ایڈریس غلط ہے۔"
           }
         },
         "uz": {
           "stringUnit": {
             "state": "translated",
-            "value": "The entered server address is invalid."
+            "value": "Kiritilgan server manzili noto'g'ri."
           }
         },
         "vi": {
           "stringUnit": {
             "state": "translated",
-            "value": "The entered server address is invalid."
+            "value": "Địa chỉ máy chủ đã nhập không hợp lệ."
           }
         },
         "zh_CN": {
           "stringUnit": {
             "state": "translated",
-            "value": "The entered server address is invalid."
+            "value": "输入的服务器地址无效。"
           }
         },
         "zh_HK": {
@@ -5213,13 +5213,13 @@
         "zu_ZA": {
           "stringUnit": {
             "state": "translated",
-            "value": "The entered server address is invalid."
+            "value": "Ikheli leseva elifakiwe alilungile."
           }
         },
         "sr@latin": {
           "stringUnit": {
             "state": "translated",
-            "value": "The entered server address is invalid."
+            "value": "Unesena adresa servera nije važeća."
           }
         }
       }
