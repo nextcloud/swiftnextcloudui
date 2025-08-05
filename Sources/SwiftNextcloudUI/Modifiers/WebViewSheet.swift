@@ -25,6 +25,9 @@ struct WebSheet: ViewModifier {
         content.sheet(isPresented: $isPresented, onDismiss: onDismiss) {
             WebView(initialURL: $initialURL, userAgent: userAgent)
                 .ignoresSafeArea()
+                #if os(macOS)
+                .frame(minWidth: 800, minHeight: 800)
+                #endif
         }
     }
 }
