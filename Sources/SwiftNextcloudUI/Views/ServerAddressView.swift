@@ -148,10 +148,10 @@ public struct ServerAddressView: View, QRCodeParsing, URLSanitizing {
                         ) {
                             Text("Server Address", comment: "Label for text field.")
                         }
-                        .foregroundStyle(backgroundColor.readable)
                         .textContentType(.URL)
                         .autocorrectionDisabled()
                         #if os(iOS)
+                        .foregroundStyle(backgroundColor.readable)
                         .keyboardType(.URL)
                         .textInputAutocapitalization(.never)
                         .submitLabel(.done)
