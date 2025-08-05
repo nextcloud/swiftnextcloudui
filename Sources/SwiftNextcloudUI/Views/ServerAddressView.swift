@@ -168,18 +168,26 @@ public struct ServerAddressView: View, QRCodeParsing, URLSanitizing {
                             Button {
                                 sanitizeEnteredServerAddressAndLogIn()
                             } label: {
+                                #if !os(macOS)
                                 Image(systemName: "arrow.right")
+                                #else
+                                Image(systemName: "arrow.right.circle")
+                                    .font(.title)
+                                    .foregroundStyle(.white)
+                                #endif
                             }
                             #if os(macOS)
                             .buttonStyle(.plain)
                             #endif
                         }
                     }
+                    #if !os(macOS)
                     .padding(EdgeInsets(top: 8, leading: 10, bottom: 8, trailing: 10))
                     .overlay(
                         RoundedRectangle(cornerRadius: 8)
                             .stroke(backgroundColor.readable, lineWidth: 1)
                     )
+                    #endif
 
                     if horizontalSizeClass == .regular {
                         Spacer(minLength: 100)
