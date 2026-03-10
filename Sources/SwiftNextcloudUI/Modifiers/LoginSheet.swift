@@ -1,5 +1,5 @@
 // SPDX-FileCopyrightText: Nextcloud GmbH
-// SPDX-FileCopyrightText: 2026 tdhooghe
+// SPDX-FileCopyrightText: 2025 tdhooghe
 // SPDX-License-Identifier: GPL-3.0-or-later
 
 import SwiftUI
@@ -97,7 +97,7 @@ extension View {
 @MainActor
 private class SessionCoordinator: NSObject, ASWebAuthenticationPresentationContextProviding {
     nonisolated func presentationAnchor(for session: ASWebAuthenticationSession) -> ASPresentationAnchor {
-        return MainActor.assumeIsolated {
+        MainActor.assumeIsolated {
             guard let windowScene = UIApplication.shared.connectedScenes.first(where: { $0.activationState == .foregroundActive }) as? UIWindowScene,
                   let window = windowScene.windows.first(where: \.isKeyWindow)
             else {
