@@ -29,7 +29,7 @@ public typealias BeginPollingHandler = (_ url: URL, _ dismiss: @MainActor @Senda
 /// - Parameters:
 ///     - token: The polling token the login flow is identified by uniquely.
 ///
-public typealias CancelPollingHandler = (_ token: String) -> Void
+public typealias CancelPollingHandler = () -> Void
 
 ///
 /// The full screen view in which a user enters the address of the server to log in on.
@@ -105,11 +105,6 @@ public struct ServerAddressView: View, QRCodeParsing, URLSanitizing {
     /// The login address acquired by the server through the login flow API.
     ///
     @State var loginAddress: URL?
-
-    ///
-    /// The temporarily known token to identify the login flow belonging to this view.
-    ///
-    @State var pollingToken: String?
 
     // MARK: - Implementation
 
@@ -277,9 +272,10 @@ public struct ServerAddressView: View, QRCodeParsing, URLSanitizing {
                     dismiss()
                 }
 
-                if let user {
-                    url.append(queryItems: [URLQueryItem(name: "user", value: user)])
-                }
+//                Temporary disabled until https://github.com/nextcloud/server/issues/59874 is resolved.
+//                if let user {
+//                    url.append(queryItems: [URLQueryItem(name: "user", value: user)])
+//                }
 
                 beginWebView(url)
             } catch {
@@ -302,10 +298,7 @@ public struct ServerAddressView: View, QRCodeParsing, URLSanitizing {
     /// - The login completed successfully.
     ///
     func endWebView() {
-        if let pollingToken {
-            cancelPolling(pollingToken)
-            self.pollingToken = nil
-        }
+        cancelPolling()
 
         isActive = false
         isPresentingWebView = false
@@ -338,7 +331,7 @@ public struct ServerAddressView: View, QRCodeParsing, URLSanitizing {
     } beginPolling: { _, _ in
         print("Begin polling!")
         return URL(string: "about:blank")!
-    } cancelPolling: { _ in
+    } cancelPolling: {
         print("Cancel polling!")
     }
 }
@@ -355,7 +348,7 @@ public struct ServerAddressView: View, QRCodeParsing, URLSanitizing {
     } beginPolling: { _, _ in
         print("Begin polling!")
         return URL(string: "about:blank")!
-    } cancelPolling: { _ in
+    } cancelPolling: {
         print("Cancel polling!")
     }
 }
