@@ -272,7 +272,7 @@ public struct ServerAddressView: View, QRCodeParsing, URLSanitizing {
                     dismiss()
                 }
 
-                //TODO: Temporary disabled until https://github.com/nextcloud/server/issues/59874 is resolved.
+//                Temporary disabled until https://github.com/nextcloud/server/issues/59874 is resolved.
 //                if let user {
 //                    url.append(queryItems: [URLQueryItem(name: "user", value: user)])
 //                }
