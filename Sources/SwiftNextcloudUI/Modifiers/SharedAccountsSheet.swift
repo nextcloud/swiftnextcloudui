@@ -39,6 +39,8 @@ extension View {
     }
 }
 
+#if DEBUG
+
 #Preview {
     ZStack {
         Color.blue
@@ -48,3 +50,5 @@ extension View {
         print("Account selected!")
     }
 }
+
+#endif

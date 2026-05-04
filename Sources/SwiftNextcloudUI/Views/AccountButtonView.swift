@@ -134,6 +134,8 @@ public struct AccountButtonView: View {
     }
 }
 
+#if DEBUG
+
 #Preview("Closed") {
     @Previewable @State var selectedAccount: Account? = PreviewData.account
     @Previewable @State var showLogin = false
@@ -178,3 +180,5 @@ public struct AccountButtonView: View {
         }
     }
 }
+
+#endif
