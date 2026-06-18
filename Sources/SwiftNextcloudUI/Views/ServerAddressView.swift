@@ -216,7 +216,7 @@ public struct ServerAddressView: View, QRCodeParsing, URLSanitizing {
             .safeAreaPadding(.all)
         }
         .ignoresSafeArea()
-        .loginSheet(loginURL: $loginAddress, isPresented: $isPresentingWebView, userAgent: userAgent, onDismiss: endWebView)
+        .loginSheet(loginURL: $loginAddress, isPresented: $isPresentingWebView, onDismiss: endWebView)
         .alert(String(localized: "Login Failed", comment: "Alert title"), isPresented: $isPresentingAlert) {
             Button(role: .cancel) {
                 errorMessage = nil

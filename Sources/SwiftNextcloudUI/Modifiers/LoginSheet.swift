@@ -4,108 +4,67 @@
 
 import SwiftUI
 
-#if os(iOS)
-import AuthenticationServices
-#endif
-
 ///
-/// Presents the Nextcloud Login Flow v2 authentication UI.
+/// Presents the Nextcloud Login Flow v2 authentication UI using the system browser.
 ///
-/// On **iOS**, this uses `ASWebAuthenticationSession` which opens a system browser sheet
-/// that properly handles cross-domain OIDC redirects, passkeys, and deep links.
+/// Uses SwiftUI's `webAuthenticationSession`, which handles cross-domain OIDC redirects,
+/// passkeys, and deep links on both iOS and macOS.
 ///
-/// On **macOS**, this presents a ``WebView`` in a sheet.
-///
-/// Credentials are obtained via the host app's polling mechanism on both platforms.
+/// Credentials are obtained via the host app's polling mechanism. The browser session has
+/// no callback to complete, so it is cancelled once polling reports success (when
+/// `isPresented` becomes `false`).
 ///
 struct LoginSheet: ViewModifier {
-    let userAgent: String?
+    @Environment(\.webAuthenticationSession) private var webAuthenticationSession
+
     let onDismiss: () -> Void
 
     @Binding var loginURL: URL?
     @Binding var isPresented: Bool
 
-    #if os(iOS)
-    @State private var authSession: ASWebAuthenticationSession?
-    @State private var sessionCoordinator = SessionCoordinator()
-    #endif
+    @State private var authenticationTask: Task<Void, Never>?
 
-    init(loginURL: Binding<URL?>, isPresented: Binding<Bool>, userAgent: String?, onDismiss: @escaping () -> Void) {
+    init(loginURL: Binding<URL?>, isPresented: Binding<Bool>, onDismiss: @escaping () -> Void) {
         self._loginURL = loginURL
         self._isPresented = isPresented
-        self.userAgent = userAgent
         self.onDismiss = onDismiss
     }
 
     func body(content: Content) -> some View {
-        content
-            #if os(macOS)
-            .sheet(isPresented: $isPresented, onDismiss: onDismiss) {
-                WebView(initialURL: $loginURL, userAgent: userAgent)
-                    .ignoresSafeArea()
-                    .frame(minWidth: 800, minHeight: 800)
-            }
-            #else
-            .onChange(of: isPresented) { _, presented in
-                if presented, let url = loginURL {
-                    startAuthSession(url: url)
-                } else {
-                    authSession?.cancel()
-                    authSession = nil
-                }
-            }
-            #endif
-    }
-
-    #if os(iOS)
-
-    private func startAuthSession(url: URL) {
-        let session = ASWebAuthenticationSession(url: url, callbackURLScheme: "nc") { _, error in
-            authSession = nil
-            if let error = error as? ASWebAuthenticationSessionError, error.code == .canceledLogin {
-                onDismiss()
+        content.onChange(of: isPresented) { _, presented in
+            if presented, let loginURL {
+                startAuthentication(url: loginURL)
+            } else {
+                authenticationTask?.cancel()
+                authenticationTask = nil
             }
         }
-
-        session.presentationContextProvider = sessionCoordinator
-        session.prefersEphemeralWebBrowserSession = true
-        authSession = session
-        session.start()
     }
 
-    #endif
+    private func startAuthentication(url: URL) {
+        authenticationTask = Task {
+            defer { authenticationTask = nil }
+            do {
+                _ = try await webAuthenticationSession.authenticate(
+                    using: url,
+                    callbackURLScheme: "nc",
+                    preferredBrowserSession: .ephemeral)
+            } catch {
+                if !Task.isCancelled {
+                    onDismiss()
+                }
+            }
+        }
+    }
 }
 
 extension View {
     ///
-    /// Present the login authentication UI appropriate for the current platform.
+    /// Present the Nextcloud login authentication UI using the system browser.
     ///
     /// See ``LoginSheet`` for the implementation.
     ///
-    func loginSheet(loginURL: Binding<URL?>, isPresented: Binding<Bool>, userAgent: String?, onDismiss: @escaping () -> Void) -> some View {
-        modifier(LoginSheet(loginURL: loginURL, isPresented: isPresented, userAgent: userAgent, onDismiss: onDismiss))
+    func loginSheet(loginURL: Binding<URL?>, isPresented: Binding<Bool>, onDismiss: @escaping () -> Void) -> some View {
+        modifier(LoginSheet(loginURL: loginURL, isPresented: isPresented, onDismiss: onDismiss))
     }
 }
-
-// MARK: - ASWebAuthenticationSession Coordinator
-
-#if os(iOS)
-
-///
-/// Provides the presentation anchor for `ASWebAuthenticationSession` in SwiftUI contexts.
-///
-@MainActor
-private class SessionCoordinator: NSObject, ASWebAuthenticationPresentationContextProviding {
-    nonisolated func presentationAnchor(for session: ASWebAuthenticationSession) -> ASPresentationAnchor {
-        MainActor.assumeIsolated {
-            guard let windowScene = UIApplication.shared.connectedScenes.first(where: { $0.activationState == .foregroundActive }) as? UIWindowScene,
-                  let window = windowScene.windows.first(where: \.isKeyWindow)
-            else {
-                return ASPresentationAnchor()
-            }
-            return window
-        }
-    }
-}
-
-#endif
