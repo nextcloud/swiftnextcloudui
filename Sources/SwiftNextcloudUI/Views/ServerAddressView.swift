@@ -211,7 +211,7 @@ public struct ServerAddressView: View, QRCodeParsing, URLSanitizing {
             .safeAreaPadding(.all)
         }
         .ignoresSafeArea()
-        .webSheet(initialURL: $loginAddress, isPresented: $isPresentingWebView, userAgent: userAgent, onDismiss: endWebView)
+        .loginSheet(loginURL: $loginAddress, isPresented: $isPresentingWebView, onDismiss: endWebView)
         .alert(String(localized: "Login Failed", comment: "Alert title"), isPresented: $isPresentingAlert) {
             Button(role: .cancel) {
                 errorMessage = nil
@@ -290,12 +290,12 @@ public struct ServerAddressView: View, QRCodeParsing, URLSanitizing {
     }
 
     ///
-    /// Dismisses the sheet with the web view.
+    /// Dismisses the login UI.
     ///
     /// Multiple paths can lead to here. In example:
     ///
-    /// - The user dismisses the sheet without logging in.
-    /// - The login completed successfully.
+    /// - The user dismisses the session without logging in.
+    /// - The login completed successfully (detected by polling).
     ///
     func endWebView() {
         cancelPolling()
