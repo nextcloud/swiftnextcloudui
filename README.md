@@ -1,3 +1,6 @@
+> [!IMPORTANT]  
+> The contents of this library are now moved to the `NextcloudKitUI` module in [NextcloudKit](https://github.com/nextcloud/NextcloudKit)
+
 <div align="center">
     <img src="SwiftNextcloudUI.svg" alt="Logo of SwiftNextcloudUI" width="256" height="256" />
 </div>
